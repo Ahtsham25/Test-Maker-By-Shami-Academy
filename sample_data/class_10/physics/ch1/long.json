@@ -1,0 +1,13 @@
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10c1l1",
+      "type": "long",
+      "q_en": "Derive the relationship between time period, length and acceleration due to gravity for a simple pendulum.",
+      "q_ur": "سادہ لولک کے دورانیے، لمبائی اور کششِ ثقل کے اسراع کے درمیان تعلق اخذ کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

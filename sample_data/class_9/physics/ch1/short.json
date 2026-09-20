@@ -1,0 +1,21 @@
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p9c1s1",
+      "type": "short",
+      "q_en": "Define least count of a measuring instrument.",
+      "q_ur": "کسی پیمائشی آلے کے کم از کم شمار (Least Count) کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p9c1s2",
+      "type": "short",
+      "q_en": "What is the difference between physical and non-physical quantities?",
+      "q_ur": "طبعی اور غیر طبعی مقداروں میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

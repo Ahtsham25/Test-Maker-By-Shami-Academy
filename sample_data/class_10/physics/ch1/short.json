@@ -1,0 +1,13 @@
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10c1s1",
+      "type": "short",
+      "q_en": "Define simple harmonic motion with an example.",
+      "q_ur": "سادہ توافقی حرکت کی تعریف مثال کے ساتھ کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10c1m1",
+      "type": "mcq",
+      "q_en": "The time period of a simple pendulum depends on:",
+      "q_ur": "سادہ لولک کا دورانیہ کس پر منحصر ہے؟",
+      "options_en": ["Length of pendulum", "Mass of bob", "Amplitude", "Color of bob"],
+      "options_ur": ["لولک کی لمبائی", "بوب کی کمیت", "طول", "بوب کا رنگ"],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10c1m2",
+      "type": "mcq",
+      "q_en": "SI unit of frequency is:",
+      "q_ur": "تعدد کی SI اکائی ہے:",
+      "options_en": ["Hertz", "Second", "Meter", "Newton"],
+      "options_ur": ["ہرٹز", "سیکنڈ", "میٹر", "نیوٹن"],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    }
+  ]
+}

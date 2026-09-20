@@ -1,0 +1,13 @@
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p9c1l1",
+      "type": "long",
+      "q_en": "Explain the construction and working of a Vernier Caliper with a labeled diagram. How is least count calculated?",
+      "q_ur": "ورنیئر کیلیپر کی ساخت اور کام کرنے کا طریقہ خاکے کی مدد سے بیان کریں۔ کم از کم شمار کیسے نکالا جاتا ہے؟",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}
