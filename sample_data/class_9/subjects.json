@@ -1,1 +1,9 @@
-
+[
+  { "id": "physics", "name": "Physics", "name_ur": "فزکس" },
+  { "id": "chemistry", "name": "Chemistry", "name_ur": "کیمسٹری" },
+  { "id": "biology", "name": "Biology", "name_ur": "بائیولوجی" },
+  { "id": "computer_science", "name": "Computer Science", "name_ur": "کمپیوٹر سائنس" },
+  { "id": "english", "name": "English", "name_ur": "انگلش" },
+  { "id": "urdu", "name": "Urdu", "name_ur": "اردو" },
+  { "id": "tarjuma_tul_quran", "name": "Tarjuma-tul-Quran / Islamiat", "name_ur": "ترجمۃ القرآن / اسلامیات" }
+]
