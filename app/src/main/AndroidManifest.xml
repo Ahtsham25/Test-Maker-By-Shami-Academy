@@ -1,1 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.PaperGenerator"
+        android:supportsRtl="true">
+
+        <!-- AdMob App ID: replace with your real App ID -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <activity
+            android:name=".ui.SplashActivity"
+            android:theme="@style/Theme.PaperGenerator.Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".ui.ClassSelectionActivity"
+            android:exported="false" />
+
+        <activity android:name=".ui.SubjectListActivity" android:exported="false" />
+        <activity android:name=".ui.ChapterListActivity" android:exported="false" />
+        <activity android:name=".ui.QuestionSelectionActivity" android:exported="false" />
+        <activity android:name=".ui.PaperPreviewActivity" android:exported="false" />
+
+    </application>
+</manifest>
