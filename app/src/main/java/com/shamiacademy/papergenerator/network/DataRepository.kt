@@ -24,7 +24,7 @@ import java.io.IOException
  */
 object DataRepository {
 
-    const val BASE_URL = "https://raw.githubusercontent.com/Ahtsham25/papergenerator-data/main/"
+    const val BASE_URL = "https://raw.githubusercontent.com/Ahtsham25/Test-Maker-By-Shami-Academy/main/sample_data/"
 
     private val client = OkHttpClient()
     private val gson = Gson()
