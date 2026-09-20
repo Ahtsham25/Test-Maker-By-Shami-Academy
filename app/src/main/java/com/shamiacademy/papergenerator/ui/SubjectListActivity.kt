@@ -12,54 +12,44 @@ import com.shamiacademy.papergenerator.network.DataRepository
 import com.shamiacademy.papergenerator.util.UnlockManager
 import com.shamiacademy.papergenerator.util.buildRow
 
-class ChapterListActivity : AppCompatActivity() {
+class SubjectListActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_list)
 
         val classId = intent.getStringExtra("classId") ?: return
-        val subjectId = intent.getStringExtra("subjectId") ?: return
-        val subjectName = intent.getStringExtra("subjectName") ?: ""
-        val subjectNameUr = intent.getStringExtra("subjectNameUr") ?: ""
+        val className = intent.getStringExtra("className") ?: ""
+        val classNameUr = intent.getStringExtra("classNameUr") ?: ""
 
         val title = findViewById<TextView>(R.id.titleText)
         val container = findViewById<LinearLayout>(R.id.listContainer)
         val progress = findViewById<android.widget.ProgressBar>(R.id.progressBar)
-        title.text = "$subjectName ($subjectNameUr) - ابواب"
+        title.text = "$className ($classNameUr) - مضامین"
 
         RewardedAdManager.preload(this)
 
-        DataRepository.getChapters(classId, subjectId) { chapters ->
+        DataRepository.getSubjects(classId) { subjects ->
             runOnUiThread {
                 progress.visibility = android.view.View.GONE
-                val list = chapters ?: emptyList()
+                val list = subjects ?: emptyList()
                 if (list.isEmpty()) {
                     container.addView(TextView(this).apply {
-                        text = "ابھی اس مضمون کے ابواب شامل نہیں کیے گئے۔"
+                        text = "ڈیٹا لوڈ نہیں ہو سکا — انٹرنیٹ چیک کریں یا بعد میں دوبارہ کوشش کریں۔"
                         setPadding(24, 24, 24, 24)
                     })
                     return@runOnUiThread
                 }
-                list.forEachIndexed { index, chapter ->
-                    val unlocked = UnlockManager.isChapterUnlocked(this, classId, subjectId, index)
-                    val label = "${chapter.number}. ${chapter.name}"
-                    container.addView(buildRow(this, label, chapter.name_ur, locked = !unlocked) {
+                list.forEachIndexed { index, subject ->
+                    val unlocked = UnlockManager.isSubjectUnlocked(this, classId, index)
+                    container.addView(buildRow(this, subject.name, subject.name_ur, locked = !unlocked) {
                         if (unlocked) {
-                            val intent = Intent(this, QuestionSelectionActivity::class.java)
-                            intent.putExtra("classId", classId)
-                            intent.putExtra("subjectId", subjectId)
-                            intent.putExtra("subjectName", subjectName)
-                            intent.putExtra("subjectNameUr", subjectNameUr)
-                            intent.putExtra("chapterId", chapter.id)
-                            intent.putExtra("chapterName", chapter.name)
-                            intent.putExtra("chapterNameUr", chapter.name_ur)
-                            startActivity(intent)
+                            openChapters(classId, subject.id, subject.name, subject.name_ur)
                         } else {
                             RewardedAdManager.show(this,
                                 onUnlocked = {
-                                    UnlockManager.unlockChapter(this, classId, subjectId, index)
-                                    Toast.makeText(this, "باب اَن لاک ہو گیا!", Toast.LENGTH_SHORT).show()
+                                    UnlockManager.unlockSubject(this, classId, index)
+                                    Toast.makeText(this, "کتاب اَن لاک ہو گئی!", Toast.LENGTH_SHORT).show()
                                     recreate()
                                 },
                                 onUnavailable = {
@@ -70,5 +60,14 @@ class ChapterListActivity : AppCompatActivity() {
                 }
             }
         }
+    }
+
+    private fun openChapters(classId: String, subjectId: String, nameEn: String, nameUr: String) {
+        val intent = Intent(this, ChapterListActivity::class.java)
+        intent.putExtra("classId", classId)
+        intent.putExtra("subjectId", subjectId)
+        intent.putExtra("subjectName", nameEn)
+        intent.putExtra("subjectNameUr", nameUr)
+        startActivity(intent)
     }
 }
