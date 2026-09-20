@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#EEEEEE"
+        android:padding="12dp">
+
+        <EditText
+            android:id="@+id/institutionNameInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="ادارے کا نام / Institution Name" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="فونٹ سائز / Font Size"
+            android:layout_marginTop="8dp" />
+
+        <SeekBar
+            android:id="@+id/fontSizeSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="18"
+            android:progress="4" />
+
+        <Spinner
+            android:id="@+id/mediumSpinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/refreshPreviewBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="پیش منظر اپڈیٹ کریں / Update Preview" />
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/paperWebView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <Button
+        android:id="@+id/printBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="پرنٹ / PDF بنائیں (Print / Save as PDF)"
+        android:backgroundTint="#1565C0"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
