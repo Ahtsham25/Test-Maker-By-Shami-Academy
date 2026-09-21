@@ -1,7 +1,7 @@
 [
   { "id": "ch1", "number": 1, "name": "Nutrition", "name_ur": "غذائیت" },
   { "id": "ch2", "number": 2, "name": "Gaseous Exchange", "name_ur": "تبادلہ گیسز" },
-  { "id": "ch3", "number": 3, "name": "Transport", "name_ur": "ٹرانسپورٹ" },
+  { "id": "ch3", "number": 3, "name": "Human Circulatory System", "name_ur": "انسانی گردشی نظام" },
   { "id": "ch4", "number": 4, "name": "Homeostasis", "name_ur": "توازن حیات" },
   { "id": "ch5", "number": 5, "name": "Coordination and Control", "name_ur": "رابطہ کاری اور کنٹرول" },
   { "id": "ch6", "number": 6, "name": "Reproduction", "name_ur": "تولید" },
