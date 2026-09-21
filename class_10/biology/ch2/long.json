@@ -1,0 +1,45 @@
+{
+  "chapter_id": "ch2",
+  "questions": [
+    {
+      "id": "p10bioch2l1",
+      "type": "long",
+      "q_en": "What may happen to breathing if the Diaphragm stops working properly?",
+      "q_ur": "اگر ڈایافرام ٹھیک طرح سے کام کرنا چھوڑ دے تو سانس لینے کے عمل پر کیا اثر ہو سکتا ہے؟",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2l2",
+      "type": "long",
+      "q_en": "Why is the accumulation of smoke particles inside the lungs dangerous?",
+      "q_ur": "دھوئیں کے ذرات پھیپھڑوں کے اندر جمع ہونا کیوں خطرناک ہے؟",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2l3",
+      "type": "long",
+      "q_en": "Why does the Trachea have C-shaped cartilage rings while Bronchioles do not?",
+      "q_ur": "ٹریکیا میں C شکل کے کارٹیلج کیوں ہوتے ہیں جبکہ برونکیولز میں یہ نہیں ہوتے؟",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2l4",
+      "type": "long",
+      "q_en": "Why is exhalation more difficult than inhalation during an Asthma attack?",
+      "q_ur": "دمہ کے دوروں کے دوران سانس اندر لینے کی نسبت باہر نکالنے میں زیادہ مشکل کیوں ہوتی ہے؟",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2l5",
+      "type": "long",
+      "q_en": "Complete the comparative table of inhaled and exhaled air.",
+      "q_ur": "اندر داخل ہونے والی اور باہر خارج ہونے والی ہوا کا تقابلی جدول مکمل کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

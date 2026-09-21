@@ -1,0 +1,215 @@
+{
+  "chapter_id": "ch2",
+  "questions": [
+    {
+      "id": "p10bioch2m1",
+      "type": "mcq",
+      "q_en": "Respiration refers to:",
+      "q_ur": "تنفس سے مراد ہے:",
+      "options_en": [
+        "Breaking of C-H bonds to release energy",
+        "Body movements that move air into and out of the body",
+        "Taking oxygen from air and removing carbon dioxide from the body",
+        "Transport of oxygen by blood to different parts of the body"
+      ],
+      "options_ur": [
+        "توانائی خارج کرنے کے لیے C-H بانڈز کا ٹوٹنا",
+        "جسمانی حرکات، جو ہوا کو جسم کے اندر اور باہر لے جاتی ہیں",
+        "ہوا سے آکسیجن لینا اور جسم کی کاربن ڈائی آکسائیڈ نکالنا",
+        "خون کا آکسیجن کو جسم کے مختلف حصوں تک ٹرانسپورٹ کرنا"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m2",
+      "type": "mcq",
+      "q_en": "Which pathway does air follow immediately after passing through the pharynx?",
+      "q_ur": "فیرنکس سے گزرنے کے فوراً بعد ہوا کون سا راستہ اختیار کرتی ہے؟",
+      "options_en": [
+        "Pharynx",
+        "Bronchi",
+        "Trachea",
+        "Alveoli"
+      ],
+      "options_ur": [
+        "فیرنکس",
+        "برونکائی",
+        "ٹریکیا",
+        "ایلو یولائی"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m3",
+      "type": "mcq",
+      "q_en": "Why are alveoli surrounded by blood capillaries?",
+      "q_ur": "ایلو یولائی کیوں بلڈ کپلریز سے گھرے ہوتے ہیں؟",
+      "options_en": [
+        "To absorb water",
+        "For gaseous exchange",
+        "To produce mucus",
+        "To trap dust particles"
+      ],
+      "options_ur": [
+        "پانی جذب کرنے کے لیے",
+        "گیسوں کے تبادلے کے لیے",
+        "میوکس پیدا کرنے کے لیے",
+        "گرد کے ذرات پکڑنے کے لیے"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m4",
+      "type": "mcq",
+      "q_en": "Which feature of alveoli helps them in gaseous exchange?",
+      "q_ur": "ایلو یولائی کی کون سی خصوصیت گیسوں کے تبادلے کے لیے ان کی مدد کرتی ہے؟",
+      "options_en": [
+        "Thick walls",
+        "Large diameter",
+        "Closing of trachea",
+        "Strong muscles"
+      ],
+      "options_ur": [
+        "موٹی دیواریں",
+        "وسیع ڈایا میٹر (قطر)",
+        "ٹریکیا کا بند ہو جانا",
+        "مضبوط مسلز"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m5",
+      "type": "mcq",
+      "q_en": "Which process increases the volume of lungs during respiration?",
+      "q_ur": "کس عمل سے ریسپریشن کے دوران پھیپھڑوں کا حجم بڑھ جاتا ہے؟",
+      "options_en": [
+        "Expansion of diaphragm",
+        "Contraction of intercostal muscles",
+        "Closing of trachea",
+        "Hardening of alveolar walls"
+      ],
+      "options_ur": [
+        "ڈایافرام کا پھیلنا",
+        "انٹرکوسٹل مسلز کا سکڑنا",
+        "ٹریکیا کا بند ہو جانا",
+        "ایلو یولائی کی دیواروں کا سخت ہو جانا"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m6",
+      "type": "mcq",
+      "q_en": "The air entering the lungs contains 21% oxygen. How much oxygen is present in exhaled air?",
+      "q_ur": "سانس کے ذریعے اندر آنے والی ہوا میں 21% آکسیجن ہوتی ہے۔ باہر نکلنے والی ہوا میں یہ کتنی ہے؟",
+      "options_en": [
+        "0%",
+        "16%",
+        "21%",
+        "42%"
+      ],
+      "options_ur": [
+        "0%",
+        "16%",
+        "21%",
+        "42%"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m7",
+      "type": "mcq",
+      "q_en": "Which of the following controls the rate of breathing in humans?",
+      "q_ur": "مندرجہ ذیل میں سے کون سا عنصر انسان میں تنفس کی رفتار کو کنٹرول کرتا ہے؟",
+      "options_en": [
+        "Carbon dioxide in blood",
+        "Oxygen in blood",
+        "Carbon dioxide in muscles",
+        "Oxygen in muscles"
+      ],
+      "options_ur": [
+        "خون میں کاربن ڈائی آکسائیڈ",
+        "خون میں آکسیجن",
+        "مسلز میں کاربن ڈائی آکسائیڈ",
+        "مسلز میں آکسیجن"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m8",
+      "type": "mcq",
+      "q_en": "In which disease do the walls of alveoli break down?",
+      "q_ur": "کون سی بیماری میں ایلو یولائی کی دیواریں ٹوٹ جاتی ہیں؟",
+      "options_en": [
+        "Pneumonia",
+        "Bronchitis",
+        "Emphysema",
+        "Asthma"
+      ],
+      "options_ur": [
+        "نمونیا",
+        "برونکائٹس",
+        "ایمفیزما",
+        "دمہ"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m9",
+      "type": "mcq",
+      "q_en": "How does smoking cause cancer?",
+      "q_ur": "سموکنگ کس طرح کینسر کا باعث بنتی ہے؟",
+      "options_en": [
+        "The rate of oxygen intake increases",
+        "Cell division becomes uncontrolled",
+        "The rate of wound healing decreases",
+        "The size of trachea increases"
+      ],
+      "options_ur": [
+        "آکسیجن لینے کی شرح بڑھ جاتی ہے",
+        "سیل ڈویژن بے قابو ہو جاتی ہے",
+        "زخم بھرنے کی رفتار کم ہو جاتی ہے",
+        "ٹریکیا کا سائز بڑھ جاتا ہے"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2m10",
+      "type": "mcq",
+      "q_en": "Which chemical present in cigarettes can cause addiction?",
+      "q_ur": "سگریٹ میں موجود کون سا کیمیکل عادی بنا سکتا ہے؟",
+      "options_en": [
+        "Carbon Monoxide",
+        "Tar",
+        "Nicotine",
+        "Formaldehyde"
+      ],
+      "options_ur": [
+        "کاربن مونو آکسائیڈ",
+        "ٹار",
+        "نکوٹین",
+        "فارملڈی ہائیڈ"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    }
+  ]
+}
