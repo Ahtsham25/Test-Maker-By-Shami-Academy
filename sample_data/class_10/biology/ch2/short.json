@@ -1,1 +1,813 @@
-{ "chapter_id": "ch2", "questions": [] }
+{
+  "chapter_id": "ch2",
+  "questions": [
+    {
+      "id": "p10bioch2s1",
+      "type": "short",
+      "q_en": "What is Cellular Respiration and why is it important for living organisms?",
+      "q_ur": "سیلولر ریسپریشن کیا ہے اور جانداروں کے لیے یہ کیوں اہم ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s2",
+      "type": "short",
+      "q_en": "What is Gaseous Exchange?",
+      "q_ur": "گیسوں کا تبادلہ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s3",
+      "type": "short",
+      "q_en": "What is Breathing?",
+      "q_ur": "بریڈنگ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s4",
+      "type": "short",
+      "q_en": "What is the difference between Breathing and Respiration? Why are they not synonyms?",
+      "q_ur": "بریڈنگ اور ریسپریشن میں کیا فرق ہے؟ یہ دونوں مترادف کیوں نہیں ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s5",
+      "type": "short",
+      "q_en": "What is the Respiratory System?",
+      "q_ur": "ریسپریٹری سسٹم کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s6",
+      "type": "short",
+      "q_en": "Name the major parts of the human Respiratory System.",
+      "q_ur": "انسانی ریسپریٹری سسٹم کے اہم حصوں کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s7",
+      "type": "short",
+      "q_en": "What is meant by Air Passageway?",
+      "q_ur": "ایئر پیسج وے سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s8",
+      "type": "short",
+      "q_en": "What is the function of the Nasal Cavity?",
+      "q_ur": "نیزل کیویٹی کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s9",
+      "type": "short",
+      "q_en": "What roles do Mucus and Cilia play in the air passageway?",
+      "q_ur": "میوکس اور سیلیا ہوا کے راستے میں کیا کردار ادا کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s10",
+      "type": "short",
+      "q_en": "What is the Pharynx and what is its role?",
+      "q_ur": "فیرنکس کیا ہے اور اس کا کیا کردار ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s11",
+      "type": "short",
+      "q_en": "Differentiate between the Glottis and Epiglottis.",
+      "q_ur": "گلوٹس اور ایپی گلوٹس میں فرق بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s12",
+      "type": "short",
+      "q_en": "What is the function of the Epiglottis?",
+      "q_ur": "ایپی گلوٹس کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s13",
+      "type": "short",
+      "q_en": "Why is the Larynx called the Voice Box?",
+      "q_ur": "لیرنکس کو وائس باکس کیوں کہا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s14",
+      "type": "short",
+      "q_en": "How do Vocal Cords help in producing sound?",
+      "q_ur": "ووکل کارڈز آواز پیدا کرنے میں کیسے مدد کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s15",
+      "type": "short",
+      "q_en": "How is speech sound produced in humans?",
+      "q_ur": "انسان میں سپیچ ساؤنڈ کیسے پیدا ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s16",
+      "type": "short",
+      "q_en": "What is the Trachea?",
+      "q_ur": "ٹریکیا کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s17",
+      "type": "short",
+      "q_en": "Describe the structure of the Trachea.",
+      "q_ur": "ٹریکیا کی ساخت بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s18",
+      "type": "short",
+      "q_en": "What is the structural difference between the Trachea and Bronchi?",
+      "q_ur": "ٹریکیا اور برونکائی میں ساخت کے لحاظ سے کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s19",
+      "type": "short",
+      "q_en": "What is the role of Cartilage in the Trachea and Bronchi?",
+      "q_ur": "ٹریکیا اور برونکائی میں کارٹیلج کا کیا کردار ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s20",
+      "type": "short",
+      "q_en": "Why are C-shaped cartilage rings present in the Trachea?",
+      "q_ur": "ٹریکیا میں C شکل کے کارٹیلج رنگز کیوں ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s21",
+      "type": "short",
+      "q_en": "What are Bronchi and Bronchioles?",
+      "q_ur": "برونکائی اور برونکیولز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s22",
+      "type": "short",
+      "q_en": "What are Bronchioles?",
+      "q_ur": "برونکیولز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s23",
+      "type": "short",
+      "q_en": "What are Alveolar Ducts and Alveoli?",
+      "q_ur": "ایلو یولر ڈکٹس اور ایلو یولائی کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s24",
+      "type": "short",
+      "q_en": "What is the main function of Alveoli?",
+      "q_ur": "ایلو یولائی کا بنیادی کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s25",
+      "type": "short",
+      "q_en": "Describe the structure and function of an Alveolus.",
+      "q_ur": "ایلو یولس کی ساخت اور کام بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s26",
+      "type": "short",
+      "q_en": "How are Alveoli adapted for gaseous exchange?",
+      "q_ur": "ایلو یولائی گیسوں کے تبادلے کے لیے موزوں کیسے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s27",
+      "type": "short",
+      "q_en": "What are Intercostal Muscles and how many pairs are there?",
+      "q_ur": "انٹرکوسٹل مسلز کیا ہیں اور ان کے کتنے جوڑے ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s28",
+      "type": "short",
+      "q_en": "Describe the pathway of air from the Nasal Cavity to the Alveoli.",
+      "q_ur": "نیزل کیویٹی سے ایلو یولائی تک ہوا کا راستہ بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s29",
+      "type": "short",
+      "q_en": "How many lungs do humans have and where are they located?",
+      "q_ur": "انسان میں پھیپھڑے کتنے ہوتے ہیں اور کہاں واقع ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s30",
+      "type": "short",
+      "q_en": "What is the Diaphragm?",
+      "q_ur": "ڈایافرام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s31",
+      "type": "short",
+      "q_en": "Describe the structure of the Lungs.",
+      "q_ur": "پھیپھڑوں کی ساخت بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s32",
+      "type": "short",
+      "q_en": "What is the difference between the right and left lungs?",
+      "q_ur": "دائیں اور بائیں پھیپھڑے میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s33",
+      "type": "short",
+      "q_en": "What is Pleura?",
+      "q_ur": "پلیورا کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s34",
+      "type": "short",
+      "q_en": "What is the function of Pleural Fluid?",
+      "q_ur": "پلیورل فلوئڈ کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s35",
+      "type": "short",
+      "q_en": "How does blood circulate through the lungs?",
+      "q_ur": "پھیپھڑوں میں خون کی گردش کیسے ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s36",
+      "type": "short",
+      "q_en": "What is meant by Respiration and what are its stages?",
+      "q_ur": "ریسپریشن سے کیا مراد ہے اور اس کے مراحل کون سے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s37",
+      "type": "short",
+      "q_en": "What is Inhalation? What changes occur during it?",
+      "q_ur": "انہیلیشن کیا ہے؟ اس دوران کیا تبدیلیاں واقع ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s38",
+      "type": "short",
+      "q_en": "What is Exhalation? What changes occur during it?",
+      "q_ur": "ایگزہیلیشن کیا ہے؟ اس دوران کیا تبدیلیاں واقع ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s39",
+      "type": "short",
+      "q_en": "What is the normal Breathing Rate of a person at rest?",
+      "q_ur": "آرام کی حالت میں انسان کی نارمل بریڈنگ ریٹ کیا ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s40",
+      "type": "short",
+      "q_en": "Why does the Breathing Rate increase during exercise?",
+      "q_ur": "ورزش کے دوران بریڈنگ ریٹ کیوں بڑھ جاتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s41",
+      "type": "short",
+      "q_en": "What is the function of the Respiratory Centre?",
+      "q_ur": "ریسپریٹری سینٹر کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s42",
+      "type": "short",
+      "q_en": "Why does the rate of breathing increase during exercise?",
+      "q_ur": "ورزش کے دوران سانس لینے کی رفتار کیوں بڑھ جاتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s43",
+      "type": "short",
+      "q_en": "What is the difference between the composition of inhaled and exhaled air?",
+      "q_ur": "اندر داخل ہونے والی اور باہر خارج ہونے والی ہوا کی ساخت میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s44",
+      "type": "short",
+      "q_en": "What is Bronchitis and what are its causes and symptoms?",
+      "q_ur": "برونکائٹس کیا ہے اور اس کی وجوہات اور علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s45",
+      "type": "short",
+      "q_en": "Differentiate between Acute Bronchitis and Chronic Bronchitis.",
+      "q_ur": "ایکیوٹ برونکائٹس اور کرانک برونکائٹس میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s46",
+      "type": "short",
+      "q_en": "How is Bronchitis treated?",
+      "q_ur": "برونکائٹس کا علاج کیسے کیا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s47",
+      "type": "short",
+      "q_en": "What is Emphysema and why does it cause difficulty in breathing?",
+      "q_ur": "ایمفیزما کیا ہے اور اس میں سانس لینے میں دشواری کیوں ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s48",
+      "type": "short",
+      "q_en": "What are the causes of Emphysema?",
+      "q_ur": "ایمفیزما کی وجوہات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s49",
+      "type": "short",
+      "q_en": "What are the symptoms of Emphysema?",
+      "q_ur": "ایمفیزما کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s50",
+      "type": "short",
+      "q_en": "What is the treatment of Emphysema?",
+      "q_ur": "ایمفیزما کا علاج کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s51",
+      "type": "short",
+      "q_en": "What is Pneumonia?",
+      "q_ur": "نمونیا کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s52",
+      "type": "short",
+      "q_en": "What are the causes of Pneumonia?",
+      "q_ur": "نمونیا کی وجوہات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s53",
+      "type": "short",
+      "q_en": "What are the symptoms of Pneumonia?",
+      "q_ur": "نمونیا کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s54",
+      "type": "short",
+      "q_en": "What is the treatment of Pneumonia?",
+      "q_ur": "نمونیا کا علاج کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s55",
+      "type": "short",
+      "q_en": "Why can Asthma become worse during spring?",
+      "q_ur": "بہار کے موسم میں دمہ زیادہ کیوں خراب ہو سکتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s56",
+      "type": "short",
+      "q_en": "What is Asthma?",
+      "q_ur": "دمہ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s57",
+      "type": "short",
+      "q_en": "What are the symptoms of Asthma?",
+      "q_ur": "دمہ کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s58",
+      "type": "short",
+      "q_en": "What are the causes of Asthma?",
+      "q_ur": "دمہ کی وجوہات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s59",
+      "type": "short",
+      "q_en": "What is Lung Cancer?",
+      "q_ur": "پھیپھڑوں کا کینسر کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s60",
+      "type": "short",
+      "q_en": "What are the causes of Lung Cancer?",
+      "q_ur": "پھیپھڑوں کے کینسر کی وجوہات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s61",
+      "type": "short",
+      "q_en": "What are the symptoms of Lung Cancer?",
+      "q_ur": "پھیپھڑوں کے کینسر کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s62",
+      "type": "short",
+      "q_en": "How is Lung Cancer treated?",
+      "q_ur": "پھیپھڑوں کے کینسر کا علاج کیسے کیا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s63",
+      "type": "short",
+      "q_en": "What are Carcinogens?",
+      "q_ur": "کارسینو جنز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s64",
+      "type": "short",
+      "q_en": "How does Passive Smoking affect health?",
+      "q_ur": "پیسیو سموکنگ صحت کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s65",
+      "type": "short",
+      "q_en": "What are the effects of Nicotine?",
+      "q_ur": "نکوٹین کے کیا اثرات ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s66",
+      "type": "short",
+      "q_en": "How does Smoking increase the risk of TB and Pneumonia?",
+      "q_ur": "سموکنگ سے ٹی بی اور نمونیا کا خطرہ کتنا بڑھ جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s67",
+      "type": "short",
+      "q_en": "Which is the most commonly diagnosed cancer worldwide?",
+      "q_ur": "دنیا بھر میں سب سے زیادہ تشخیص ہونے والا کینسر کون سا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s68",
+      "type": "short",
+      "q_en": "What is the worldwide rate of Lung Cancer?",
+      "q_ur": "دنیا بھر میں پھیپھڑوں کے کینسر کی شرح کتنی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s69",
+      "type": "short",
+      "q_en": "How many deaths occur annually due to Lung Cancer?",
+      "q_ur": "ہر سال پھیپھڑوں کے کینسر سے کتنی اموات ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s70",
+      "type": "short",
+      "q_en": "What is the rate of Lung Cancer in Pakistan?",
+      "q_ur": "پاکستان میں پھیپھڑوں کے کینسر کی شرح کتنی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s71",
+      "type": "short",
+      "q_en": "Which diseases can be caused by Smoking?",
+      "q_ur": "سموکنگ سے کون سی بیماریاں پیدا ہو سکتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s72",
+      "type": "short",
+      "q_en": "What risks are associated with Passive Smoking?",
+      "q_ur": "پیسیو سموکنگ سے کیا خطرات پیدا ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s73",
+      "type": "short",
+      "q_en": "How many chemicals are present in tobacco smoke and how many of them are carcinogens?",
+      "q_ur": "تمباکو کے دھوئیں میں کتنے کیمیکلز پائے جاتے ہیں اور ان میں کتنے کارسینو جنز ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s74",
+      "type": "short",
+      "q_en": "What effects does Nicotine have on the body?",
+      "q_ur": "نکوٹین جسم پر کیا اثرات مرتب کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s75",
+      "type": "short",
+      "q_en": "How does Carbon Monoxide affect the body?",
+      "q_ur": "کاربن مونو آکسائیڈ جسم کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s76",
+      "type": "short",
+      "q_en": "What effects does smoking have on teeth and mouth?",
+      "q_ur": "سگریٹ نوشی سے دانتوں اور منہ پر کیا اثرات پڑتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s77",
+      "type": "short",
+      "q_en": "What changes occur in the blood due to smoking?",
+      "q_ur": "سموکنگ سے خون میں کیا تبدیلیاں آتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s78",
+      "type": "short",
+      "q_en": "Why is smoking dangerous for the whole body?",
+      "q_ur": "سموکنگ پورے جسم کے لیے خطرناک کیوں ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s79",
+      "type": "short",
+      "q_en": "Why is Tar dangerous?",
+      "q_ur": "ٹار خطرناک کیوں ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s80",
+      "type": "short",
+      "q_en": "Why are Benzene and Formaldehyde dangerous?",
+      "q_ur": "بینزین اور فارملڈی ہائیڈ کیوں خطرناک ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s81",
+      "type": "short",
+      "q_en": "What role does Ammonia play in cigarettes?",
+      "q_ur": "امونیا سگریٹ میں کیا کردار ادا کرتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s82",
+      "type": "short",
+      "q_en": "How do irritants damage the airways?",
+      "q_ur": "ایئر ویز میں موجود Irritants انہیں کیسے نقصان پہنچاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s83",
+      "type": "short",
+      "q_en": "When is World No Tobacco Day observed?",
+      "q_ur": "ورلڈ نو ٹوبیکو ڈے کب منایا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s84",
+      "type": "short",
+      "q_en": "What is Vaping?",
+      "q_ur": "ویپنگ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s85",
+      "type": "short",
+      "q_en": "What substances are found in E-Cigarettes?",
+      "q_ur": "ای سگریٹ میں کون سے مادے پائے جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s86",
+      "type": "short",
+      "q_en": "Why do people vape?",
+      "q_ur": "لوگ ویپنگ کیوں کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s87",
+      "type": "short",
+      "q_en": "How does Vaping affect the lungs?",
+      "q_ur": "ویپنگ پھیپھڑوں کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s88",
+      "type": "short",
+      "q_en": "How does Vaping affect the heart?",
+      "q_ur": "ویپنگ دل کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s89",
+      "type": "short",
+      "q_en": "Differentiate between Gaseous Exchange and Breathing.",
+      "q_ur": "گیسوں کا تبادلہ اور بریڈنگ میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s90",
+      "type": "short",
+      "q_en": "Differentiate between Breathing and Cellular Respiration.",
+      "q_ur": "بریڈنگ اور سیلولر ریسپریشن میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s91",
+      "type": "short",
+      "q_en": "What is the role of Cartilage in the Trachea and Bronchi?",
+      "q_ur": "ٹریکیا اور برونکائی میں کارٹیلج کا کیا کردار ہے؟ (Exercise)",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s92",
+      "type": "short",
+      "q_en": "What is the average Breathing Rate of a person at rest and during work?",
+      "q_ur": "آرام اور کام کے دوران انسان کی اوسط بریڈنگ ریٹ کیا ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s93",
+      "type": "short",
+      "q_en": "How does the structure of Alveoli allow greater gaseous exchange?",
+      "q_ur": "ایلو یولائی کی ساخت گیسوں کے زیادہ تبادلے میں کیسے مدد دیتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s94",
+      "type": "short",
+      "q_en": "List the symptoms, causes and treatment of Bronchitis.",
+      "q_ur": "برونکائٹس کی علامات، وجوہات اور علاج بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s95",
+      "type": "short",
+      "q_en": "Describe the symptoms and treatment of Emphysema.",
+      "q_ur": "ایمفیزما کی علامات اور علاج بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s96",
+      "type": "short",
+      "q_en": "What are Carcinogens? Give two examples.",
+      "q_ur": "کارسینو جنز کیا ہیں؟ دو مثالیں دیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s97",
+      "type": "short",
+      "q_en": "What may happen to breathing if the Diaphragm stops working properly?",
+      "q_ur": "اگر ڈایافرام ٹھیک طرح سے کام کرنا چھوڑ دے تو سانس لینے کے عمل پر کیا اثر ہو سکتا ہے؟",
+      "marks": 3,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s98",
+      "type": "short",
+      "q_en": "Why is the accumulation of smoke particles inside the lungs dangerous?",
+      "q_ur": "دھوئیں کے ذرات پھیپھڑوں کے اندر جمع ہونا کیوں خطرناک ہے؟",
+      "marks": 3,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s99",
+      "type": "short",
+      "q_en": "Why does the Trachea have C-shaped cartilage rings while Bronchioles do not?",
+      "q_ur": "ٹریکیا میں C شکل کے کارٹیلج کیوں ہوتے ہیں جبکہ برونکیولز میں یہ نہیں ہوتے؟",
+      "marks": 3,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s100",
+      "type": "short",
+      "q_en": "Why is exhalation more difficult than inhalation during an Asthma attack?",
+      "q_ur": "دمہ کے دوروں کے دوران سانس اندر لینے کی نسبت باہر نکالنے میں زیادہ مشکل کیوں ہوتی ہے؟",
+      "marks": 3,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch2s101",
+      "type": "short",
+      "q_en": "Complete the comparative table of inhaled and exhaled air.",
+      "q_ur": "اندر داخل ہونے والی اور باہر خارج ہونے والی ہوا کا تقابلی جدول مکمل کریں۔",
+      "marks": 3,
+      "board_pattern": "punjab"
+    }
+  ]
+}
