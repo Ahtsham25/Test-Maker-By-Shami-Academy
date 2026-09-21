@@ -1,0 +1,1029 @@
+{
+  "chapter_id": "ch3",
+  "questions": [
+    {
+      "id": "p10bioch3s1",
+      "type": "short",
+      "q_en": "What are the two major components of the transport system?",
+      "q_ur": "ٹرانسپورٹ سسٹم کے دو اہم حصے کون سے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s2",
+      "type": "short",
+      "q_en": "What are the major components of the blood circulatory system?",
+      "q_ur": "بلڈ سرکولیٹری سسٹم کے اہم اجزاء کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s3",
+      "type": "short",
+      "q_en": "What is blood and what are its basic functions?",
+      "q_ur": "خون کیا ہے اور اس کے بنیادی افعال کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s4",
+      "type": "short",
+      "q_en": "What is the composition of blood?",
+      "q_ur": "خون کی کمپوزیشن کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s5",
+      "type": "short",
+      "q_en": "What percentage of blood is plasma and cells?",
+      "q_ur": "خون کتنے فیصد پلازما اور سیلز پر مشتمل ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s6",
+      "type": "short",
+      "q_en": "What are the major components of plasma?",
+      "q_ur": "پلازما میں کون کون سے اہم اجزاء پائے جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s7",
+      "type": "short",
+      "q_en": "What is plasma?",
+      "q_ur": "پلازما کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s8",
+      "type": "short",
+      "q_en": "What is serum?",
+      "q_ur": "سیرم کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s9",
+      "type": "short",
+      "q_en": "How much blood is present in an adult human body?",
+      "q_ur": "بالغ انسان کے جسم میں کتنا خون ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s10",
+      "type": "short",
+      "q_en": "What are the major plasma proteins?",
+      "q_ur": "پلازما کے اہم پروٹینز کون سے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s11",
+      "type": "short",
+      "q_en": "What is the function of antibodies in plasma?",
+      "q_ur": "پلازما پروٹین اینٹی باڈیز کا کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s12",
+      "type": "short",
+      "q_en": "Name two proteins present in blood.",
+      "q_ur": "خون میں موجود دو پروٹینز کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s13",
+      "type": "short",
+      "q_en": "What is the function of fibrinogen in blood?",
+      "q_ur": "خون میں موجود پروٹین فائبرینو جن کا کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s14",
+      "type": "short",
+      "q_en": "What is the function of albumin in blood?",
+      "q_ur": "خون میں موجود پروٹین ایلبیومن کا کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s15",
+      "type": "short",
+      "q_en": "What are the important salts present in plasma?",
+      "q_ur": "پلازما میں کون سے اہم نمکیات ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s16",
+      "type": "short",
+      "q_en": "What minerals are present in plasma?",
+      "q_ur": "پلازما میں کون سے منرلز پائے جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s17",
+      "type": "short",
+      "q_en": "Name the important salts present in plasma.",
+      "q_ur": "پلازما میں اہم نمکیات کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s18",
+      "type": "short",
+      "q_en": "Which respiratory gases are present in plasma and in what amounts are they dissolved?",
+      "q_ur": "پلازما میں کون سی ریسپریٹری گیسز موجود ہوتی ہیں اور یہ کس مقدار میں حل ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s19",
+      "type": "short",
+      "q_en": "What is the appearance and structure of red blood cells?",
+      "q_ur": "ریڈ بلڈ سیلز کی ظاہریت اور ساخت کیسی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s20",
+      "type": "short",
+      "q_en": "What is haemoglobin and what is its function?",
+      "q_ur": "ہیموگلوبن کیا ہے اور اس کا کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s21",
+      "type": "short",
+      "q_en": "How many red blood cells are present in one cubic millimetre of blood?",
+      "q_ur": "ایک مکعب ملی میٹر خون میں کتنے ریڈ بلڈ سیلز ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s22",
+      "type": "short",
+      "q_en": "Where are red blood cells produced before birth, and where are they produced in adults?",
+      "q_ur": "پیدائش سے پہلے ریڈ بلڈ سیلز کہاں بنتے ہیں؟ نیز بالغ انسان میں ریڈ بلڈ سیلز کہاں بنتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s23",
+      "type": "short",
+      "q_en": "What changes occur during the formation of red blood cells?",
+      "q_ur": "ریڈ بلڈ سیلز بننے کے دوران کیا تبدیلی آتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s24",
+      "type": "short",
+      "q_en": "What is the average life span of red blood cells?",
+      "q_ur": "ریڈ بلڈ سیلز کی اوسط عمر یعنی دورانیۂ حیات کتنا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s25",
+      "type": "short",
+      "q_en": "Where are old red blood cells destroyed?",
+      "q_ur": "پرانے ریڈ بلڈ سیلز کہاں ختم کیے جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s26",
+      "type": "short",
+      "q_en": "How many red blood cells are produced and destroyed every second?",
+      "q_ur": "ہر سیکنڈ میں کتنے ریڈ بلڈ سیلز بنتے اور ٹوٹتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s27",
+      "type": "short",
+      "q_en": "What is the appearance and structure of white blood cells?",
+      "q_ur": "وائٹ بلڈ سیلز کی ظاہریت اور ساخت کیسی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s28",
+      "type": "short",
+      "q_en": "Where are white blood cells produced?",
+      "q_ur": "وائٹ بلڈ سیلز کہاں بنتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s29",
+      "type": "short",
+      "q_en": "At which sites do white blood cells mature in the human body?",
+      "q_ur": "وائٹ بلڈ سیلز انسانی جسم میں کن مقامات پر بالغ ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s30",
+      "type": "short",
+      "q_en": "How do white blood cells differ from red blood cells in size and number?",
+      "q_ur": "وائٹ بلڈ سیلز کا سائز اور تعداد ریڈ بلڈ سیلز سے کیسے مختلف ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s31",
+      "type": "short",
+      "q_en": "What is the number of white blood cells in one cubic millimetre of blood?",
+      "q_ur": "ایک مکعب ملی میٹر خون میں وائٹ بلڈ سیلز کی تعداد کتنی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s32",
+      "type": "short",
+      "q_en": "What is the main function of white blood cells?",
+      "q_ur": "وائٹ بلڈ سیلز کا بنیادی کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s33",
+      "type": "short",
+      "q_en": "What is the life span of white blood cells?",
+      "q_ur": "وائٹ بلڈ سیلز کی عمر یعنی دورانیۂ حیات کتنا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s34",
+      "type": "short",
+      "q_en": "Are there only one type of white blood cells? If not, name their types.",
+      "q_ur": "کیا وائٹ بلڈ سیلز کی ایک ہی قسم ہوتی ہے؟ اگر نہیں تو اس کی اقسام کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s35",
+      "type": "short",
+      "q_en": "What are granulocytes?",
+      "q_ur": "گرینولو سائٹس کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s36",
+      "type": "short",
+      "q_en": "What are the types of granulocytes?",
+      "q_ur": "گرینولو سائٹس کی اقسام کون سی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s37",
+      "type": "short",
+      "q_en": "What is the function of neutrophils?",
+      "q_ur": "نیوٹرو فلز کا کیا فنکشن ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s38",
+      "type": "short",
+      "q_en": "What is the function of eosinophils?",
+      "q_ur": "ایوزینو فلز کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s39",
+      "type": "short",
+      "q_en": "What do basophils release and what is its effect?",
+      "q_ur": "بیسوفلز کیا خارج کرتے ہیں اور اس کا کیا اثر ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s40",
+      "type": "short",
+      "q_en": "What are agranulocytes?",
+      "q_ur": "ایگرینو لوسائٹس کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s41",
+      "type": "short",
+      "q_en": "What are the types of agranulocytes?",
+      "q_ur": "ایگرینو لوسائٹس کی اقسام کون سی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s42",
+      "type": "short",
+      "q_en": "What is the function of monocytes?",
+      "q_ur": "مونوسائٹس کا کیا فنکشن ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s43",
+      "type": "short",
+      "q_en": "What is the function of lymphocytes?",
+      "q_ur": "لمفوسائٹس کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s44",
+      "type": "short",
+      "q_en": "What are platelets?",
+      "q_ur": "پلیٹ لیٹس کیا ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s45",
+      "type": "short",
+      "q_en": "Why are platelets not considered complete cells?",
+      "q_ur": "پلیٹ لیٹس کو مکمل سیل کیوں نہیں سمجھا جاتا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s46",
+      "type": "short",
+      "q_en": "What effect does the absence of a nucleus have on the structure and function of platelets?",
+      "q_ur": "نیوکلیس کی غیر موجودگی پلیٹ لیٹس کی ساخت اور کام پر کیا اثر ڈالتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s47",
+      "type": "short",
+      "q_en": "How do platelets help in blood clotting?",
+      "q_ur": "پلیٹ لیٹس خون کے جمنے میں کیسے مدد دیتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s48",
+      "type": "short",
+      "q_en": "Approximately how many platelets are present in one cubic millimetre of blood?",
+      "q_ur": "خون کے ایک مکعب ملی میٹر میں تقریباً کتنی پلیٹ لیٹس پائی جاتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s49",
+      "type": "short",
+      "q_en": "What is the life span of platelets?",
+      "q_ur": "پلیٹ لیٹس کا دورانیۂ حیات کتنا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s50",
+      "type": "short",
+      "q_en": "What would happen if platelets were absent from blood?",
+      "q_ur": "اگر پلیٹ لیٹس خون میں موجود نہ ہوں تو کیا اثر ہوگا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s51",
+      "type": "short",
+      "q_en": "What is the heart?",
+      "q_ur": "دل کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s52",
+      "type": "short",
+      "q_en": "Where is the heart located in the human body?",
+      "q_ur": "دل انسانی جسم میں کہاں واقع ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s53",
+      "type": "short",
+      "q_en": "What is the pericardium?",
+      "q_ur": "پیری کارڈیم کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s54",
+      "type": "short",
+      "q_en": "Where is pericardial fluid found and what is its function?",
+      "q_ur": "پیری کارڈیم فلوئڈ کہاں پایا جاتا ہے اور اس کا فائدہ لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s55",
+      "type": "short",
+      "q_en": "What is the septum?",
+      "q_ur": "سیپٹم کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s56",
+      "type": "short",
+      "q_en": "How many sides does the heart have? Name them.",
+      "q_ur": "دل کے کتنے حصے ہوتے ہیں؟ نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s57",
+      "type": "short",
+      "q_en": "What is an atrium?",
+      "q_ur": "ایٹریم کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s58",
+      "type": "short",
+      "q_en": "What is a ventricle?",
+      "q_ur": "ویٹریکل کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s59",
+      "type": "short",
+      "q_en": "What is the difference between atria and ventricles?",
+      "q_ur": "ایٹریا اور ویٹریکلز میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s60",
+      "type": "short",
+      "q_en": "Describe the structure of the human heart.",
+      "q_ur": "انسانی دل کی ساخت کو بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s61",
+      "type": "short",
+      "q_en": "What are valves?",
+      "q_ur": "والوز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s62",
+      "type": "short",
+      "q_en": "What is the tricuspid valve?",
+      "q_ur": "ٹرائی کسپیڈ والو کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s63",
+      "type": "short",
+      "q_en": "What is the bicuspid/mitral valve?",
+      "q_ur": "بائی کسپیڈ/مائٹرل والو کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s64",
+      "type": "short",
+      "q_en": "What are semilunar valves?",
+      "q_ur": "سیمی لُونر والوز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s65",
+      "type": "short",
+      "q_en": "What is the function of valves?",
+      "q_ur": "والوز کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s66",
+      "type": "short",
+      "q_en": "Why are the walls of ventricles thick?",
+      "q_ur": "ویٹریکلز کی دیواریں موٹی کیوں ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s67",
+      "type": "short",
+      "q_en": "What is pus and how is it formed?",
+      "q_ur": "پس کیا ہے اور یہ کیسے بنتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s68",
+      "type": "short",
+      "q_en": "What is the function of the right side of the heart?",
+      "q_ur": "دل کی دائیں سائیڈ کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s69",
+      "type": "short",
+      "q_en": "What is the function of the left side of the heart?",
+      "q_ur": "دل کی بائیں سائیڈ کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s70",
+      "type": "short",
+      "q_en": "Why is the heart called a double pump?",
+      "q_ur": "دل کو ڈبل پمپ کیوں کہا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s71",
+      "type": "short",
+      "q_en": "What is deoxygenated blood?",
+      "q_ur": "ڈی آکسیجنیٹڈ خون کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s72",
+      "type": "short",
+      "q_en": "What are the superior and inferior vena cava?",
+      "q_ur": "سپیریئر اور انفیریئر وینا کیوا کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s73",
+      "type": "short",
+      "q_en": "Where does the right atrium send blood?",
+      "q_ur": "دایاں ایٹریم خون کہاں بھیجتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s74",
+      "type": "short",
+      "q_en": "What is the function of the right ventricle?",
+      "q_ur": "دایاں ویٹریکل کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s75",
+      "type": "short",
+      "q_en": "What is the function of pulmonary arteries?",
+      "q_ur": "پلمونری آرٹریز کیا کام کرتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s76",
+      "type": "short",
+      "q_en": "What change occurs in the blood in the lungs?",
+      "q_ur": "پھیپھڑوں میں خون کے ساتھ کیا تبدیلی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s77",
+      "type": "short",
+      "q_en": "What is oxygenated blood?",
+      "q_ur": "آکسیجنیٹڈ خون کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s78",
+      "type": "short",
+      "q_en": "What are pulmonary veins?",
+      "q_ur": "پلمونری وینز کیا ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s79",
+      "type": "short",
+      "q_en": "Where does the left atrium send blood?",
+      "q_ur": "بایاں ایٹریم خون کہاں بھیجتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s80",
+      "type": "short",
+      "q_en": "What is the function of the left ventricle?",
+      "q_ur": "بایاں ویٹریکل کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s81",
+      "type": "short",
+      "q_en": "What is the aorta?",
+      "q_ur": "آورٹا کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s82",
+      "type": "short",
+      "q_en": "What is pulmonary circulation?",
+      "q_ur": "پلمونری سرکولیشن کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s83",
+      "type": "short",
+      "q_en": "What is the difference between pulmonary and systemic circulation?",
+      "q_ur": "پلمونری اور سسٹمک سرکولیشن میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s84",
+      "type": "short",
+      "q_en": "Write the difference between systole and diastole.",
+      "q_ur": "سسٹول اور ڈایاسٹول میں فرق لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s85",
+      "type": "short",
+      "q_en": "What is a heartbeat?",
+      "q_ur": "ہارٹ بیٹ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s86",
+      "type": "short",
+      "q_en": "What is the average heart rate of a human?",
+      "q_ur": "انسان کے دل کی اوسط دھڑکن کتنی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s87",
+      "type": "short",
+      "q_en": "What is the rate of heartbeat called?",
+      "q_ur": "دل کی دھڑکن کی رفتار کو کیا کہتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s88",
+      "type": "short",
+      "q_en": "How many stages are there in one heartbeat?",
+      "q_ur": "ایک ہارٹ بیٹ کے کتنے مراحل ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s89",
+      "type": "short",
+      "q_en": "What is systole?",
+      "q_ur": "سسٹول کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s90",
+      "type": "short",
+      "q_en": "Differentiate between systole and diastole and describe the stages of heartbeat.",
+      "q_ur": "سسٹول اور ڈایاسٹول میں فرق لکھیں اور دل کی دھڑکن کے مراحل بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s91",
+      "type": "short",
+      "q_en": "Name the types of blood vessels.",
+      "q_ur": "بلڈ ویسلز کی اقسام کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s92",
+      "type": "short",
+      "q_en": "What are arteries?",
+      "q_ur": "آرٹریز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s93",
+      "type": "short",
+      "q_en": "What are veins?",
+      "q_ur": "وینز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s94",
+      "type": "short",
+      "q_en": "What are capillaries?",
+      "q_ur": "کیپلریز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s95",
+      "type": "short",
+      "q_en": "What is the dorsal aorta?",
+      "q_ur": "ڈورسل آورٹا کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s96",
+      "type": "short",
+      "q_en": "What is the function of the dorsal aorta?",
+      "q_ur": "ڈورسل آورٹا کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s97",
+      "type": "short",
+      "q_en": "What is the function of the hepatic artery?",
+      "q_ur": "ہیپاٹک آرٹری کیا کام کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s98",
+      "type": "short",
+      "q_en": "What is the function of renal arteries?",
+      "q_ur": "رینل آرٹریز کیا کام کرتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s99",
+      "type": "short",
+      "q_en": "What are femoral arteries?",
+      "q_ur": "فیمرل آرٹریز کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s100",
+      "type": "short",
+      "q_en": "How are femoral arteries formed?",
+      "q_ur": "فیمرل آرٹریز کیسے بنتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s101",
+      "type": "short",
+      "q_en": "What is the importance of the branches of the dorsal aorta in the body?",
+      "q_ur": "ڈورسل آورٹا کی شاخیں جسم میں کیا اہمیت رکھتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s102",
+      "type": "short",
+      "q_en": "Differentiate between superior and inferior vena cava.",
+      "q_ur": "سپیریئر اور انفیریئر وینا کیوا میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s103",
+      "type": "short",
+      "q_en": "Define cardiovascular diseases.",
+      "q_ur": "کارڈیو ویسکولر بیماریوں کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s104",
+      "type": "short",
+      "q_en": "What happens in coronary heart disease? Describe its causes.",
+      "q_ur": "کورونری ہارٹ ڈیزیز میں کیا ہوتا ہے؟ اس کی وجوہات بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s105",
+      "type": "short",
+      "q_en": "Describe the risk factors and complications of coronary heart disease.",
+      "q_ur": "کورونری ہارٹ ڈیزیز کے خطرے کے عوامل اور پیچیدگیاں بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s106",
+      "type": "short",
+      "q_en": "What do you know about myocardial infarction?",
+      "q_ur": "مایو کارڈئیل انفارکشن کے بارے میں آپ کیا جانتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s107",
+      "type": "short",
+      "q_en": "What is angina pectoris?",
+      "q_ur": "انجائنا پیکٹورس کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s108",
+      "type": "short",
+      "q_en": "Describe two harmful effects of smoking related to heart diseases.",
+      "q_ur": "دل کی بیماریوں سے متعلق تمباکو نوشی کے دو نقصانات بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s109",
+      "type": "short",
+      "q_en": "Why is smoking a major risk factor for heart diseases?",
+      "q_ur": "سموکنگ دل کی بیماریوں کے لیے بڑا رسک فیکٹر کیوں ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s110",
+      "type": "short",
+      "q_en": "How does smoking accelerate the process of atherosclerosis?",
+      "q_ur": "سموکنگ ایتھرو سکلیروسس کے عمل کو کیسے تیز کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s111",
+      "type": "short",
+      "q_en": "How does smoking increase the risk of blood clot formation?",
+      "q_ur": "سموکنگ خون کے کلاٹ بننے کے خطرے میں کیسے اضافہ کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s112",
+      "type": "short",
+      "q_en": "How are blood clots dangerous for the heart?",
+      "q_ur": "خون کے کلاٹ دل کے لیے کس طرح خطرناک ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s113",
+      "type": "short",
+      "q_en": "What effect does smoking have on blood pressure?",
+      "q_ur": "سموکنگ بلڈ پریشر پر کیا اثر ڈالتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s114",
+      "type": "short",
+      "q_en": "What is meant by arrhythmia?",
+      "q_ur": "اریتھمیا سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s115",
+      "type": "short",
+      "q_en": "What effect does smoking have on heartbeat?",
+      "q_ur": "سموکنگ دل کی دھڑکن پر کیا اثر ڈالتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s116",
+      "type": "short",
+      "q_en": "Which gas in cigarette smoke reduces oxygen supply?",
+      "q_ur": "سگریٹ کے دھوئیں میں موجود کون سی گیس آکسیجن کی فراہمی کم کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s117",
+      "type": "short",
+      "q_en": "How does carbon monoxide affect the oxygen-carrying capacity of blood?",
+      "q_ur": "کاربن مونو آکسائیڈ خون کی آکسیجن لے جانے کی صلاحیت کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s118",
+      "type": "short",
+      "q_en": "What effect does smoking have on the arteries of the legs?",
+      "q_ur": "سموکنگ ٹانگوں کی شریانوں پر کیا اثر ڈالتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s119",
+      "type": "short",
+      "q_en": "List the types of cells present in blood and their functions.",
+      "q_ur": "خون میں موجود سیلز کی اقسام اور ان کے افعال کی فہرست بنائیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s120",
+      "type": "short",
+      "q_en": "Differentiate between atria and ventricles.",
+      "q_ur": "ایٹریا اور ویٹریکلز میں فرق بیان کریں۔ (Exercise)",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s121",
+      "type": "short",
+      "q_en": "Describe the pathway of blood flow from the vena cava to different parts of the body.",
+      "q_ur": "وینا کیوا سے جسم کے مختلف حصوں تک خون کے بہاؤ کا راستہ بیان کریں۔ (Exercise)",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s122",
+      "type": "short",
+      "q_en": "Why is oxygenated blood kept separate from deoxygenated blood in the heart?",
+      "q_ur": "دل میں آکسیجنیٹڈ خون کو ڈی آکسیجنیٹڈ خون سے کیوں الگ رکھا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s123",
+      "type": "short",
+      "q_en": "How does regular exercise strengthen the blood circulatory system?",
+      "q_ur": "باقاعدہ ورزش بلڈ سرکولیٹری سسٹم کو کس طرح مضبوط کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s124",
+      "type": "short",
+      "q_en": "How can lifestyle choices help prevent cardiovascular diseases?",
+      "q_ur": "طرزِ زندگی کے انتخاب کارڈیو ویسکولر بیماریوں سے کس طرح بچاؤ کر سکتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s125",
+      "type": "short",
+      "q_en": "If blood cholesterol levels are not controlled, how can they affect the heart and blood vessels over time?",
+      "q_ur": "اگر خون میں کولیسٹرول کی سطح کبھی قابو میں نہ لائی جائے تو یہ وقت گزرنے کے ساتھ دل اور بلڈ ویسلز پر کیسے اثر ڈال سکتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s126",
+      "type": "short",
+      "q_en": "Describe the causes and treatment of myocardial infarction.",
+      "q_ur": "مایو کارڈئیل انفارکشن کی وجوہات اور علاج بتائیں۔ (Exploratory)",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s127",
+      "type": "short",
+      "q_en": "Differentiate between arteriosclerosis and atherosclerosis.",
+      "q_ur": "آرٹیریو سکلیروسس اور ایتھرو سکلیروسس میں فرق لکھیں۔ (Exploratory)",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3s128",
+      "type": "short",
+      "q_en": "What is meant by a silent heart attack?",
+      "q_ur": "خاموش ہارٹ اٹیک سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

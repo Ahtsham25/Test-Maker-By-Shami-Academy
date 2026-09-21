@@ -1,0 +1,125 @@
+{
+  "chapter_id": "ch3",
+  "questions": [
+    {
+      "id": "p10bioch3l1",
+      "type": "long",
+      "q_en": "Describe the functions of the components of blood.",
+      "q_ur": "خون کے اجزاء کے افعال کو بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l2",
+      "type": "long",
+      "q_en": "Explain how blood transports materials throughout the human body.",
+      "q_ur": "وضاحت کریں کہ خون انسانی جسم میں مواد کی نقل و حرکت کیسے کرتا ہے۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l3",
+      "type": "long",
+      "q_en": "Describe the structure of the heart with the help of a diagram.",
+      "q_ur": "دل کی ساخت کو ایک ڈائیگرام کے ساتھ بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l4",
+      "type": "long",
+      "q_en": "Explain the harmful effects of smoking related to heart diseases.",
+      "q_ur": "سموکنگ کے دل کی بیماریوں سے متعلق نقصان دہ اثرات کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l5",
+      "type": "long",
+      "q_en": "Compare the structure and functions of arteries, veins, and capillaries.",
+      "q_ur": "آرٹریز، وینز اور کیپلریز کی ساخت اور افعال کا موازنہ کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l6",
+      "type": "long",
+      "q_en": "Describe the common diseases of the heart.",
+      "q_ur": "دل کی عام بیماریوں کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l7",
+      "type": "long",
+      "q_en": "Explain why oxygenated and deoxygenated blood need to be kept separate in the heart.",
+      "q_ur": "وضاحت کریں کہ دل میں آکسیجنیٹڈ اور ڈی آکسیجنیٹڈ خون کو الگ رکھنا کیوں ضروری ہے۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l8",
+      "type": "long",
+      "q_en": "Explain how regular exercise strengthens the blood circulatory system.",
+      "q_ur": "وضاحت کریں کہ باقاعدہ ورزش بلڈ سرکولیٹری سسٹم کو کیسے مضبوط بناتی ہے۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l9",
+      "type": "long",
+      "q_en": "Explain how lifestyle choices help prevent cardiovascular diseases.",
+      "q_ur": "وضاحت کریں کہ طرزِ زندگی کے انتخاب کارڈیو ویسکولر ڈیزیزز سے بچاؤ میں کیسے مدد دیتے ہیں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l10",
+      "type": "long",
+      "q_en": "Explain how uncontrolled cholesterol affects the heart and blood vessels.",
+      "q_ur": "وضاحت کریں کہ بے قابو کولیسٹرول دل اور بلڈ ویسلز کو کیسے متاثر کرتا ہے۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l11",
+      "type": "long",
+      "q_en": "Describe the causes and treatment of myocardial infarction.",
+      "q_ur": "مایو کارڈئیل انفارکشن کی وجوہات اور علاج بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l12",
+      "type": "long",
+      "q_en": "Describe the pathway of blood flow from the vena cava to different parts of the body.",
+      "q_ur": "دینا کیوا سے جسم کے مختلف حصوں تک خون کے بہاؤ کا راستہ بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l13",
+      "type": "long",
+      "q_en": "Differentiate between arteriosclerosis and atherosclerosis.",
+      "q_ur": "آرٹیریو سکلیروسس اور ایتھرو سکلیروسس میں فرق بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l14",
+      "type": "long",
+      "q_en": "What is meant by a silent heart attack? Explain.",
+      "q_ur": "خاموش ہارٹ اٹیک سے کیا مراد ہے؟ وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3l15",
+      "type": "long",
+      "q_en": "Explain coronary heart disease, myocardial infarction, and angina pectoris as common heart diseases.",
+      "q_ur": "دل کی عام بیماریوں میں کورونری ہارٹ ڈیزیز، مایو کارڈئیل انفارکشن اور انجائنا پیکٹورس کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

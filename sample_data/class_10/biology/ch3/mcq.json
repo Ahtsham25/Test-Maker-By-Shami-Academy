@@ -1,0 +1,215 @@
+{
+  "chapter_id": "ch3",
+  "questions": [
+    {
+      "id": "p10bioch3m1",
+      "type": "mcq",
+      "q_en": "Which component of blood is responsible for transporting oxygen?",
+      "q_ur": "خون کے کون سے اجزاء آکسیجن ٹرانسپورٹ کرنے کے ذمہ دار ہیں؟",
+      "options_en": [
+        "White Blood Cells",
+        "Platelets",
+        "Red Blood Cells",
+        "Plasma"
+      ],
+      "options_ur": [
+        "وائٹ بلڈ سیلز",
+        "پلیٹ لیٹس",
+        "ریڈ بلڈ سیلز",
+        "پلازما"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m2",
+      "type": "mcq",
+      "q_en": "A person with a low platelet count may have difficulty with:",
+      "q_ur": "خون میں پلیٹ لیٹس کی کمی کا سامنا کرنے والے شخص کو کس کام میں مشکل ہو سکتی ہے؟",
+      "options_en": [
+        "Fighting infections",
+        "Respiration",
+        "Blood clotting",
+        "Oxygen transport"
+      ],
+      "options_ur": [
+        "انفیکشن سے لڑنا",
+        "تنفس",
+        "خون کا جمنا",
+        "آکسیجن کی ٹرانسپورٹ"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m3",
+      "type": "mcq",
+      "q_en": "Which layer is present in all blood vessels?",
+      "q_ur": "کون سی تہہ تمام بلڈ ویسلز میں ہوتی ہے؟",
+      "options_en": [
+        "Smooth Muscles",
+        "Endothelium",
+        "Skeletal Muscles",
+        "Connective Tissue"
+      ],
+      "options_ur": [
+        "سموٹھ مسلز",
+        "اینڈوتھیلیم",
+        "سکیلیٹل مسلز",
+        "کنیکٹو ٹشو"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m4",
+      "type": "mcq",
+      "q_en": "Which chamber or vessel contains deoxygenated blood in an adult human?",
+      "q_ur": "بالغ انسان میں کون سے خانے یا ویسل میں ڈی آکسیجنیٹڈ خون ہوتا ہے؟",
+      "options_en": [
+        "Left Atrium",
+        "Pulmonary Artery",
+        "Pulmonary Vein",
+        "Aorta"
+      ],
+      "options_ur": [
+        "بایاں ایٹریم",
+        "پلمونری آرٹری",
+        "پلمونری وین",
+        "آورٹا"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m5",
+      "type": "mcq",
+      "q_en": "When fibrinogen forms a blood clot, it is separated from the blood. What is the remaining fluid called?",
+      "q_ur": "جب فائبرینو جن خون کا کلاٹ بناتی ہے تو یہ خون سے الگ ہو جاتی ہے۔ خون کے بقیہ حصے کو کیا کہتے ہیں؟",
+      "options_en": [
+        "Lymph",
+        "Plasma",
+        "Serum",
+        "Platelets"
+      ],
+      "options_ur": [
+        "لمف",
+        "پلازما",
+        "سیرم",
+        "پلیٹ لیٹس"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m6",
+      "type": "mcq",
+      "q_en": "Which chamber of the human heart has the thickest walls?",
+      "q_ur": "انسان کے دل کے کس خانے کی دیواریں سب سے موٹی ہیں؟",
+      "options_en": [
+        "Right Atrium",
+        "Left Atrium",
+        "Left Ventricle",
+        "Right Ventricle"
+      ],
+      "options_ur": [
+        "دایاں ایٹریم",
+        "بایاں ایٹریم",
+        "بایاں ویٹریکل",
+        "دایاں ویٹریکل"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m7",
+      "type": "mcq",
+      "q_en": "Where does the exchange of substances between blood and tissues take place?",
+      "q_ur": "خون اور ٹشوز کے مابین مادوں کا تبادلہ کہاں سے ہوتا ہے؟",
+      "options_en": [
+        "Arteries",
+        "Veins",
+        "Capillaries",
+        "Both arteries and veins"
+      ],
+      "options_ur": [
+        "آرٹریز",
+        "وینز",
+        "کیپلریز",
+        "آرٹریز اور وینز دونوں"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m8",
+      "type": "mcq",
+      "q_en": "All veins contain deoxygenated blood except:",
+      "q_ur": "تمام وینز میں ڈی آکسیجنیٹڈ خون ہوتا ہے، سوائے کس وین کے؟",
+      "options_en": [
+        "Vena Cava",
+        "Hepatic Portal Vein",
+        "Pulmonary Vein",
+        "Renal Vein"
+      ],
+      "options_ur": [
+        "وینا کیوا",
+        "ہیپاٹک پورٹل وین",
+        "پلمونری وین",
+        "رینل وین"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m9",
+      "type": "mcq",
+      "q_en": "Blockage of blood flow in which vessel causes myocardial infarction?",
+      "q_ur": "خون کے بہاؤ میں کہاں رکاوٹ آنے سے مائیو کارڈئیل انفارکشن ہوتا ہے؟",
+      "options_en": [
+        "Aorta",
+        "Pulmonary Vein",
+        "Coronary Artery",
+        "Hepatic Vein"
+      ],
+      "options_ur": [
+        "آورٹا",
+        "پلمونری وین",
+        "کورونری آرٹری",
+        "ہیپاٹک وین"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch3m10",
+      "type": "mcq",
+      "q_en": "If the bicuspid valve is damaged, which blood flow will be affected?",
+      "q_ur": "اگر بائی کسپیڈ والو خراب ہو جائے تو خون کا کون سا بہاؤ متاثر ہوگا؟",
+      "options_en": [
+        "Left atrium to left ventricle",
+        "Right atrium to right ventricle",
+        "Left ventricle to aorta",
+        "Lungs to left atrium"
+      ],
+      "options_ur": [
+        "بائیں ایٹریم سے بائیں ویٹریکل کو",
+        "دائیں ایٹریم سے دائیں ویٹریکل کو",
+        "بائیں ویٹریکل سے آورٹا کو",
+        "پھیپھڑوں سے بائیں ایٹریم کو"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    }
+  ]
+}
