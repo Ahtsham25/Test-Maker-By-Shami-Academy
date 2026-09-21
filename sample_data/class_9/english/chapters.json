@@ -1,4 +1,19 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  { "id": "ch1", "number": 1, "name": "The Saviour of Mankind", "name_ur": "محسنِ انسانیت" },
+  { "id": "ch2", "number": 2, "name": "Patriotism", "name_ur": "حب الوطنی" },
+  { "id": "ch3", "number": 3, "name": "Daffodils", "name_ur": "ڈیفوڈلز" },
+  { "id": "ch4", "number": 4, "name": "Hazrat Asma", "name_ur": "حضرت اسماء" },
+  { "id": "ch5", "number": 5, "name": "Women Empowerment through Entrepreneurship", "name_ur": "کاروبار کے ذریعے خواتین کو بااختیار بنانا" },
+  { "id": "ch6", "number": 6, "name": "The Value of Time", "name_ur": "وقت کی قدر" },
+  { "id": "ch7", "number": 7, "name": "If", "name_ur": "اگر" },
+  { "id": "ch8", "number": 8, "name": "Globalisation's Impact on Culture & Economy", "name_ur": "عالمگیریت کے ثقافت اور معیشت پر اثرات" },
+  { "id": "ch9", "number": 9, "name": "Quality Education: A Key to Success", "name_ur": "معیاری تعلیم: کامیابی کی کنجی" },
+  { "id": "ch10", "number": 10, "name": "Wildlife Vignettes Fascinating Nature", "name_ur": "جنگلی حیات کے دلچسپ مناظر" },
+  { "id": "ch11", "number": 11, "name": "The Dear Departed", "name_ur": "دی ڈیئر ڈیپارٹڈ" },
+  { "id": "ch12", "number": 12, "name": "Letters", "name_ur": "خطوط" },
+  { "id": "ch13", "number": 13, "name": "Applications", "name_ur": "درخواستیں" },
+  { "id": "ch14", "number": 14, "name": "Dialogues", "name_ur": "مکالمے" },
+  { "id": "ch15", "number": 15, "name": "Stories", "name_ur": "کہانیاں" },
+  { "id": "ch16", "number": 16, "name": "Passive Voice", "name_ur": "مجہول" },
+  { "id": "ch17", "number": 17, "name": "Comprehensions", "name_ur": "تفہیم عبارت" }
 ]

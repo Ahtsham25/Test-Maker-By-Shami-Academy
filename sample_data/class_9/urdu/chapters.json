@@ -1,4 +1,21 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  { "id": "ch1", "number": 1, "name": "Nazam Hamad", "name_ur": "نظم حمد" },
+  { "id": "ch2", "number": 2, "name": "Nazam Naat", "name_ur": "نظم نعت" },
+  { "id": "ch3", "number": 3, "name": "Akhlaq-e-Hasna", "name_ur": "اخلاقِ حسنہ" },
+  { "id": "ch4", "number": 4, "name": "Apni Madad Aap", "name_ur": "اپنی مدد آپ" },
+  { "id": "ch5", "number": 5, "name": "Mirza Zahir Dar Baig", "name_ur": "مرزا ظہیر دار بیگ" },
+  { "id": "ch6", "number": 6, "name": "Lesson 6", "name_ur": "سبق نمبر 6" },
+  { "id": "ch7", "number": 7, "name": "Lesson 7", "name_ur": "سبق نمبر 7" },
+  { "id": "ch8", "number": 8, "name": "Katba", "name_ur": "کتبہ" },
+  { "id": "ch9", "number": 9, "name": "Ibtidai Hisab", "name_ur": "ابتدائی حساب" },
+  { "id": "ch10", "number": 10, "name": "Lari Mein Piroye Huway Manazar", "name_ur": "لڑی میں پروئے ہوئے مناظر" },
+  { "id": "ch11", "number": 11, "name": "Bhairiya", "name_ur": "بھیڑیا" },
+  { "id": "ch12", "number": 12, "name": "Mehnat Ki Barkat", "name_ur": "محنت کی برکت" },
+  { "id": "ch13", "number": 13, "name": "Nazam Javed Ke Naam", "name_ur": "نظم جاوید کے نام" },
+  { "id": "ch14", "number": 14, "name": "Nazam Piyam-e-Latif", "name_ur": "نظم پیامِ لطیف" },
+  { "id": "ch15", "number": 15, "name": "Nazam Cricket Aur Mushaira", "name_ur": "نظم کرکٹ اور مشاعرہ" },
+  { "id": "ch16", "number": 16, "name": "Faqirana Aae Sada Kar Chale (Ghazal)", "name_ur": "فقیرانہ آئے صدا کر چلے (غزل)" },
+  { "id": "ch17", "number": 17, "name": "Sun To Sahi Jahan Mein Hai Tera Fasana (Ghazal)", "name_ur": "سن تو سہی جہان میں ہے تیرا فسانہ (غزل)" },
+  { "id": "ch18", "number": 18, "name": "Gham Hai Ya Khushi Hai Tu (Ghazal)", "name_ur": "غم ہے یا خوشی ہے تو (غزل)" },
+  { "id": "ch19", "number": 19, "name": "Kash Toofan Mein Safeene Ko Utara Hota (Ghazal)", "name_ur": "کاش طوفان میں سفینے کو اتارا ہوتا (غزل)" }
 ]

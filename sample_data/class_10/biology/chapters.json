@@ -1,4 +1,12 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  { "id": "ch1", "number": 1, "name": "Nutrition", "name_ur": "غذائیت" },
+  { "id": "ch2", "number": 2, "name": "Gaseous Exchange", "name_ur": "تبادلہ گیسز" },
+  { "id": "ch3", "number": 3, "name": "Transport", "name_ur": "ٹرانسپورٹ" },
+  { "id": "ch4", "number": 4, "name": "Homeostasis", "name_ur": "توازن حیات" },
+  { "id": "ch5", "number": 5, "name": "Coordination and Control", "name_ur": "رابطہ کاری اور کنٹرول" },
+  { "id": "ch6", "number": 6, "name": "Reproduction", "name_ur": "تولید" },
+  { "id": "ch7", "number": 7, "name": "Inheritance", "name_ur": "وراثت" },
+  { "id": "ch8", "number": 8, "name": "Biotechnology", "name_ur": "بائیو ٹیکنالوجی" },
+  { "id": "ch9", "number": 9, "name": "Health and Diseases", "name_ur": "صحت اور امراض" },
+  { "id": "ch10", "number": 10, "name": "Biological Evolution", "name_ur": "حیاتیاتی ارتقاء" }
 ]

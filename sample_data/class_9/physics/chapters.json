@@ -1,4 +1,11 @@
 [
   { "id": "ch1", "number": 1, "name": "Physical Quantities and Measurement", "name_ur": "طبعی مقداریں اور پیمائش" },
-  { "id": "ch2", "number": 2, "name": "Kinematics", "name_ur": "حرکیات" }
+  { "id": "ch2", "number": 2, "name": "Kinematics", "name_ur": "حرکیات" },
+  { "id": "ch3", "number": 3, "name": "Dynamics", "name_ur": "حرکیات القوی" },
+  { "id": "ch4", "number": 4, "name": "Turning Effect of Forces", "name_ur": "قوتوں کا مروڑی اثر" },
+  { "id": "ch5", "number": 5, "name": "Work, Energy and Power", "name_ur": "کام، توانائی اور قوت" },
+  { "id": "ch6", "number": 6, "name": "Mechanical Properties of Matter", "name_ur": "مادے کی میکانی خصوصیات" },
+  { "id": "ch7", "number": 7, "name": "Thermal Properties of Matter", "name_ur": "مادے کی حرارتی خصوصیات" },
+  { "id": "ch8", "number": 8, "name": "Magnetism", "name_ur": "مقناطیسیت" },
+  { "id": "ch9", "number": 9, "name": "Nature of Science", "name_ur": "سائنس کی نوعیت" }
 ]

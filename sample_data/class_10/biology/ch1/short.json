@@ -1,1 +1,821 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10bioch1s1",
+      "type": "short",
+      "q_en": "What is meant by Nutrition?",
+      "q_ur": "نیوٹریشن (Nutrition) سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s2",
+      "type": "short",
+      "q_en": "Write the importance, functions and role of nutrients in the life of organisms.",
+      "q_ur": "غذائی اجزاء (Nutrients) کی اہمیت، افعال اور جانداروں کی زندگی میں کردار لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s3",
+      "type": "short",
+      "q_en": "What is meant by Heterotrophic Nutrition?",
+      "q_ur": "ہیٹروٹروفک نیوٹریشن (Heterotrophic Nutrition) سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s4",
+      "type": "short",
+      "q_en": "What are the different steps of Nutrition in organisms?",
+      "q_ur": "جانداروں میں نیوٹریشن (Nutrition) کے کون کون سے مراحل ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s5",
+      "type": "short",
+      "q_en": "Define Ingestion.",
+      "q_ur": "انجیشن (Ingestion) کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s6",
+      "type": "short",
+      "q_en": "Define Digestion.",
+      "q_ur": "ڈائجیشن (Digestion) کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s7",
+      "type": "short",
+      "q_en": "Define Absorption.",
+      "q_ur": "ایبزارپشن (Absorption) کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s8",
+      "type": "short",
+      "q_en": "Define Assimilation.",
+      "q_ur": "ایسیملیشن (Assimilation) کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s9",
+      "type": "short",
+      "q_en": "Define Egestion.",
+      "q_ur": "ایجیشن (Egestion) کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s10",
+      "type": "short",
+      "q_en": "Why is it necessary to break large food molecules into smaller components?",
+      "q_ur": "خوراک کے بڑے مالیکیولز (Molecules) کو توڑ کر چھوٹے اجزاء میں تبدیل کرنا کیوں ضروری ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s11",
+      "type": "short",
+      "q_en": "What is the difference between polymers and monomers?",
+      "q_ur": "پولیمرز (Polymers) اور مونومرز (Monomers) میں کیا فرق ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s12",
+      "type": "short",
+      "q_en": "What is meant by alimentary canal?",
+      "q_ur": "ایلیمنٹری کینال (Alimentary Canal) سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s13",
+      "type": "short",
+      "q_en": "Briefly describe the human digestive system and its parts.",
+      "q_ur": "انسانی ڈائجیسٹو سسٹم (Digestive System) اور اس کے حصوں کی مختصر وضاحت کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s14",
+      "type": "short",
+      "q_en": "What is meant by oral cavity? In which part of the digestive system are taste buds located?",
+      "q_ur": "اورل کیویٹی (Oral Cavity) سے کیا مراد ہے؟ ٹیسٹ بڈز (Taste Buds) ڈائجیسٹو سسٹم کے کس حصے میں واقع ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s15",
+      "type": "short",
+      "q_en": "What is mechanical digestion? In which part of the digestive system does it occur?",
+      "q_ur": "مکینیکل ڈائجیشن (Mechanical Digestion) سے کیا مراد ہے؟ نیز یہ ڈائجیسٹو سسٹم کے کس حصے میں ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s16",
+      "type": "short",
+      "q_en": "Write the function of salivary glands in the oral cavity.",
+      "q_ur": "اورل کیویٹی میں سلائیوری گلینڈز (Salivary Glands) کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s17",
+      "type": "short",
+      "q_en": "What are the components of saliva? Also write the functions of its components.",
+      "q_ur": "سلائیوا (Saliva) کن اجزاء پر مشتمل ہوتا ہے؟ نیز اس کے اجزاء کے افعال لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s18",
+      "type": "short",
+      "q_en": "Write the role of saliva in digestion.",
+      "q_ur": "سلائیوا کا ڈائجیشن میں کردار لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s19",
+      "type": "short",
+      "q_en": "What is a bolus?",
+      "q_ur": "بولس (Bolus) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s20",
+      "type": "short",
+      "q_en": "Why does the palate move upward during swallowing of a bolus?",
+      "q_ur": "بولس نگلنے کے دوران تالو (Palate) اوپر کی طرف کیوں اٹھتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s21",
+      "type": "short",
+      "q_en": "Differentiate between polysaccharides and disaccharides.",
+      "q_ur": "پولی سیکرائیڈ (Polysaccharide) اور ڈائی سیکرائیڈ (Disaccharide) میں فرق لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s22",
+      "type": "short",
+      "q_en": "What is the pharynx? Which two parts does it connect? Also write its function.",
+      "q_ur": "فیرنکس (Pharynx) کیا ہے؟ یہ کن دو حصوں کو جوڑتا ہے؟ نیز اس کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s23",
+      "type": "short",
+      "q_en": "How is food prevented from entering the lungs?",
+      "q_ur": "خوراک کو پھیپھڑوں میں جانے سے کیسے روکا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s24",
+      "type": "short",
+      "q_en": "What is the epiglottis? Write its function.",
+      "q_ur": "ایپی گلوٹس (Epiglottis) کیا ہے؟ اس کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s25",
+      "type": "short",
+      "q_en": "What is meant by trachea?",
+      "q_ur": "ٹریکیا (Trachea) سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s26",
+      "type": "short",
+      "q_en": "What problem may occur if the epiglottis fails to function during swallowing?",
+      "q_ur": "اگر نگلنے کے دوران ایپی گلوٹس اپنا کام نہ کرے تو کیا مسئلہ پیدا ہو سکتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s27",
+      "type": "short",
+      "q_en": "Why is the pharynx called a common passage?",
+      "q_ur": "فیرنکس کو مشترکہ راستہ کیوں کہا جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s28",
+      "type": "short",
+      "q_en": "What is the oesophagus? What is its function in digestion?",
+      "q_ur": "ایسوفیگس (Oesophagus) کیا ہے؟ ڈائجیشن میں اس کا کیا فعل ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s29",
+      "type": "short",
+      "q_en": "Define peristalsis.",
+      "q_ur": "پیریسٹالسس (Peristalsis) کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s30",
+      "type": "short",
+      "q_en": "What is the larynx?",
+      "q_ur": "لیرنکس (Larynx) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s31",
+      "type": "short",
+      "q_en": "Differentiate between glottis and epiglottis.",
+      "q_ur": "گلاٹس (Glottis) اور ایپی گلوٹس میں فرق لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s32",
+      "type": "short",
+      "q_en": "Where is the stomach located in the human body? What is its shape?",
+      "q_ur": "انسانی جسم میں سٹمک (Stomach) کہاں واقع ہوتا ہے؟ نیز اس کی شکل کیسی ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s33",
+      "type": "short",
+      "q_en": "Differentiate between the cardiac and pyloric parts of the stomach.",
+      "q_ur": "سٹمک کے کارڈیک (Cardiac) حصے اور پائی لورک (Pyloric) حصے میں فرق لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s34",
+      "type": "short",
+      "q_en": "What is the cardiac sphincter? Write its function.",
+      "q_ur": "کارڈیک سفنکٹر (Cardiac Sphincter) کیا ہے؟ اس کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s35",
+      "type": "short",
+      "q_en": "What is the function of the pyloric sphincter?",
+      "q_ur": "پائی لورک سفنکٹر (Pyloric Sphincter) کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s36",
+      "type": "short",
+      "q_en": "What are the two basic functions of the stomach?",
+      "q_ur": "سٹمک کے دو بنیادی افعال کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s37",
+      "type": "short",
+      "q_en": "What is churning?",
+      "q_ur": "چرنگ (Churning) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s38",
+      "type": "short",
+      "q_en": "What is the function of gastric glands in the stomach?",
+      "q_ur": "سٹمک میں واقع گیسٹرک گلینڈز (Gastric Glands) کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s39",
+      "type": "short",
+      "q_en": "What is gastric juice? Write its components.",
+      "q_ur": "گیسٹرک جوس (Gastric Juice) کیا ہے؟ اس کے اجزاء لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s40",
+      "type": "short",
+      "q_en": "Write the names and functions of the components of gastric juice.",
+      "q_ur": "گیسٹرک جوس کے اجزاء کے نام اور افعال لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s41",
+      "type": "short",
+      "q_en": "How long does food remain in the stomach?",
+      "q_ur": "خوراک سٹمک میں کتنی دیر رہتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s42",
+      "type": "short",
+      "q_en": "What is chyme?",
+      "q_ur": "کائم (Chyme) کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s43",
+      "type": "short",
+      "q_en": "Where does chyme go?",
+      "q_ur": "کائم کہاں جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s44",
+      "type": "short",
+      "q_en": "How much chyme enters the small intestine each time the pyloric sphincter opens during digestion?",
+      "q_ur": "ڈائجیشن کے عمل میں پائی لورک سفنکٹر کھلنے کے دوران ہر بار کتنا کائم سمال انٹیسٹائن میں جاتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s45",
+      "type": "short",
+      "q_en": "Why do sphincters play a role in the movement of food into and out of the stomach?",
+      "q_ur": "سفنکٹرز خوراک کی سٹمک کے اندر اور باہر حرکت میں کیوں کردار ادا کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s46",
+      "type": "short",
+      "q_en": "Describe the appearance and length of the small intestine. Also name its parts.",
+      "q_ur": "سمال انٹیسٹائن کی ظاہریت اور لمبائی لکھیں۔ نیز اس کے حصوں کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s47",
+      "type": "short",
+      "q_en": "What is the first part of the small intestine called? Write its length.",
+      "q_ur": "سمال انٹیسٹائن کے پہلے حصے کو کیا کہتے ہیں؟ اس کی لمبائی لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s48",
+      "type": "short",
+      "q_en": "Which is the middle part of the small intestine? Write its name and length.",
+      "q_ur": "سمال انٹیسٹائن کا درمیانی حصہ کون سا ہے؟ نام اور لمبائی لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s49",
+      "type": "short",
+      "q_en": "Which is the last part of the small intestine? Write its length.",
+      "q_ur": "سمال انٹیسٹائن کا آخری حصہ کون سا ہے؟ اس کی لمبائی لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s50",
+      "type": "short",
+      "q_en": "Define bile and write its function.",
+      "q_ur": "بائل (Bile) کی تعریف کریں اور اس کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s51",
+      "type": "short",
+      "q_en": "What is pancreatic juice?",
+      "q_ur": "پینکریاٹک جوس (Pancreatic Juice) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s52",
+      "type": "short",
+      "q_en": "Which enzymes are present in pancreatic juice?",
+      "q_ur": "پینکریاٹک جوس میں کون سے اینزائمز ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s53",
+      "type": "short",
+      "q_en": "Write the function of the enzyme trypsin.",
+      "q_ur": "ٹرپسن اینزائم کا فعل لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s54",
+      "type": "short",
+      "q_en": "What is the function of the enzyme amylase?",
+      "q_ur": "ایمائلیز (Amylase) اینزائم کا فعل کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s55",
+      "type": "short",
+      "q_en": "What is the function of the enzyme lipase?",
+      "q_ur": "لائپیز (Lipase) اینزائم کا کام کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s56",
+      "type": "short",
+      "q_en": "What is the function of sodium bicarbonate present in pancreatic juice?",
+      "q_ur": "پینکریاٹک جوس میں موجود سوڈیم بائی کاربونیٹ کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s57",
+      "type": "short",
+      "q_en": "What neutralizes the acidity of chyme?",
+      "q_ur": "کائم کی تیزابیت کون ختم کرتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s58",
+      "type": "short",
+      "q_en": "What role do the glands present in the walls of the small intestine play?",
+      "q_ur": "سمال انٹیسٹائن کی دیواروں میں موجود گلینڈز کیا کردار ادا کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s59",
+      "type": "short",
+      "q_en": "What are the end products formed after complete digestion of food?",
+      "q_ur": "خوراک کی مکمل ڈائجیشن کے بعد کون سے اختتامی پروڈکٹس بنتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s60",
+      "type": "short",
+      "q_en": "Where do the components of food go after complete digestion?",
+      "q_ur": "خوراک کی مکمل ڈائجیشن کے بعد اس کے اجزاء کہاں جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s61",
+      "type": "short",
+      "q_en": "What is the singular of villi? Also define it.",
+      "q_ur": "ولائی (Villi) کا واحد کیا ہے؟ نیز اس کی تعریف لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s62",
+      "type": "short",
+      "q_en": "What are the inner walls of the small intestine like?",
+      "q_ur": "سمال انٹیسٹائن کی اندرونی دیواریں کیسی ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s63",
+      "type": "short",
+      "q_en": "What is the function of villi?",
+      "q_ur": "ولائی کا کیا کام ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s64",
+      "type": "short",
+      "q_en": "Describe the process of absorption and distribution of food molecules in the body.",
+      "q_ur": "خوراک کے مالیکیولز کے جذب اور جسم میں ان کی تقسیم کا عمل بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s65",
+      "type": "short",
+      "q_en": "Write a short note on digestion in the large intestine.",
+      "q_ur": "لارج انٹیسٹائن میں ڈائجیشن پر مختصر نوٹ لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s66",
+      "type": "short",
+      "q_en": "By which process does undigested material reach the large intestine and what happens to it?",
+      "q_ur": "لارج انٹیسٹائن میں غیر ہضم شدہ مواد کس عمل کے ذریعے پہنچتا ہے اور اس کا کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s67",
+      "type": "short",
+      "q_en": "Name the parts of the large intestine and briefly introduce each part.",
+      "q_ur": "لارج انٹیسٹائن کے حصوں کے نام لکھیں اور ہر حصے کا مختصر تعارف دیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s68",
+      "type": "short",
+      "q_en": "What does the waste become after water absorption in the large intestine, and what does it contain?",
+      "q_ur": "لارج انٹیسٹائن میں پانی کے جذب ہونے کے بعد فضلہ کیسا بن جاتا ہے اور اس میں کیا شامل ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s69",
+      "type": "short",
+      "q_en": "Where are feces stored and how are they eliminated from the body?",
+      "q_ur": "فضلہ کہاں ذخیرہ کیا جاتا ہے اور جسم سے کیسے خارج ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s70",
+      "type": "short",
+      "q_en": "Where is the liver located in the human body? What is the weight of an adult human liver?",
+      "q_ur": "انسانی جسم میں لیور کہاں واقع ہوتا ہے؟ نیز بالغ انسان کے لیور کا وزن کتنا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s71",
+      "type": "short",
+      "q_en": "What is the gall bladder?",
+      "q_ur": "گال بلیڈر (Gall Bladder) کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s72",
+      "type": "short",
+      "q_en": "Where is bile produced by the liver stored, and how does it help in digestion?",
+      "q_ur": "لیور میں بننے والے بائل کا ذخیرہ کہاں ہوتا ہے اور یہ ڈائجیشن میں کیسے مدد دیتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s73",
+      "type": "short",
+      "q_en": "Write three functions of the liver.",
+      "q_ur": "لیور کے تین افعال تحریر کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s74",
+      "type": "short",
+      "q_en": "Write the names of three diseases of the digestive system.",
+      "q_ur": "ڈائجیسٹو سسٹم کی تین بیماریوں کے نام تحریر کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s75",
+      "type": "short",
+      "q_en": "What is diarrhea?",
+      "q_ur": "اسہال یعنی ڈائریا (Diarrhea) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s76",
+      "type": "short",
+      "q_en": "What are the symptoms of diarrhea?",
+      "q_ur": "اسہال / ڈائریا کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s77",
+      "type": "short",
+      "q_en": "What are the causes of diarrhea?",
+      "q_ur": "اسہال / ڈائریا کے اسباب / وجوہات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s78",
+      "type": "short",
+      "q_en": "What is the treatment of diarrhea?",
+      "q_ur": "اسہال / ڈائریا کا علاج کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s79",
+      "type": "short",
+      "q_en": "How can diarrhea be prevented?",
+      "q_ur": "اسہال / ڈائریا سے بچاؤ کیسے ممکن ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s80",
+      "type": "short",
+      "q_en": "What is constipation?",
+      "q_ur": "قبض (Constipation) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s81",
+      "type": "short",
+      "q_en": "What are the symptoms of constipation?",
+      "q_ur": "قبض کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s82",
+      "type": "short",
+      "q_en": "What are the causes of constipation?",
+      "q_ur": "قبض کے اسباب کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s83",
+      "type": "short",
+      "q_en": "What is the treatment of constipation?",
+      "q_ur": "قبض کا علاج کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s84",
+      "type": "short",
+      "q_en": "How can constipation be prevented?",
+      "q_ur": "قبض سے بچاؤ کیسے کیا جا سکتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s85",
+      "type": "short",
+      "q_en": "What is peptic ulcer?",
+      "q_ur": "پیپٹک السر (Peptic Ulcer) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s86",
+      "type": "short",
+      "q_en": "What is meant by gastric ulcer?",
+      "q_ur": "گیسٹرک السر (Gastric Ulcer) سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s87",
+      "type": "short",
+      "q_en": "In which body organs can peptic ulcer occur?",
+      "q_ur": "پیپٹک السر کن جسمانی اعضاء میں ہو سکتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s88",
+      "type": "short",
+      "q_en": "What are the symptoms of peptic ulcer?",
+      "q_ur": "پیپٹک السر کی علامات کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s89",
+      "type": "short",
+      "q_en": "What are the causes of peptic ulcer?",
+      "q_ur": "پیپٹک السر کے اسباب کیا ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s90",
+      "type": "short",
+      "q_en": "What is the treatment of peptic ulcer?",
+      "q_ur": "پیپٹک السر کا علاج کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s91",
+      "type": "short",
+      "q_en": "How can peptic ulcer be prevented?",
+      "q_ur": "پیپٹک السر سے بچاؤ کیسے ممکن ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s92",
+      "type": "short",
+      "q_en": "Differentiate between autotrophic nutrition and heterotrophic nutrition.",
+      "q_ur": "آٹو ٹروفک نیوٹریشن اور ہیٹرو ٹروفک نیوٹریشن میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s93",
+      "type": "short",
+      "q_en": "How is our stomach protected from hydrochloric acid?",
+      "q_ur": "ہمارا سٹمک ہائیڈروکلورک ایسڈ سے کیسے محفوظ رہتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s94",
+      "type": "short",
+      "q_en": "How are pigments eliminated from the body?",
+      "q_ur": "پگمنٹس (Pigments) کیسے خارج کیے جاتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s95",
+      "type": "short",
+      "q_en": "Write a short note on appendix.",
+      "q_ur": "اپنڈکس (Appendix) پر مختصر نوٹ لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s96",
+      "type": "short",
+      "q_en": "What is the role of the tongue during grinding?",
+      "q_ur": "گرائنڈنگ کے دوران زبان کا کیا کردار ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s97",
+      "type": "short",
+      "q_en": "Differentiate between starch and maltose.",
+      "q_ur": "سٹارچ اور مالٹوز میں فرق کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s98",
+      "type": "short",
+      "q_en": "Describe the role of salivary glands in digestion.",
+      "q_ur": "سلائیوری گلینڈز کا ڈائجیشن میں کیا کردار ہے؟ بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s99",
+      "type": "short",
+      "q_en": "What is meant by the terms swallowing and peristalsis?",
+      "q_ur": "نگلنا اور پیریسٹالسس کی اصطلاحات سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s100",
+      "type": "short",
+      "q_en": "What are the functions of hydrochloric acid present in gastric juice?",
+      "q_ur": "گیسٹرک جوس میں موجود ہائیڈروکلورک ایسڈ کے کیا افعال ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s101",
+      "type": "short",
+      "q_en": "Describe the role of pancreatic juice in the digestion of food.",
+      "q_ur": "پینکریاٹک جوس خوراک کی ڈائجیشن میں کیا کردار ادا کرتا ہے؟ بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1s102",
+      "type": "short",
+      "q_en": "Is breathing through the mouth better than breathing through the nose?",
+      "q_ur": "سانس لینا منہ سے بہتر ہے یا ناک سے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

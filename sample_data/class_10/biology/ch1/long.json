@@ -1,1 +1,165 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10bioch1l1",
+      "type": "long",
+      "q_en": "What is meant by nutrition? Explain autotrophic and heterotrophic nutrition and differentiate between them.",
+      "q_ur": "نیوٹریشن سے کیا مراد ہے؟ آٹو ٹروفک نیوٹریشن اور ہیٹرو ٹروفک نیوٹریشن کی وضاحت کریں اور دونوں میں فرق کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l2",
+      "type": "long",
+      "q_en": "Describe the different steps of nutrition in organisms.",
+      "q_ur": "جانداروں میں نیوٹریشن کے مختلف مراحل کی تفصیل بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l3",
+      "type": "long",
+      "q_en": "Describe the structure of the human digestive system and its different parts.",
+      "q_ur": "انسانی ڈائجیسٹو سسٹم کی ساخت اور اس کے مختلف حصوں کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l4",
+      "type": "long",
+      "q_en": "Explain the mechanical and chemical digestion that occurs in the oral cavity.",
+      "q_ur": "اورل کیویٹی میں ہونے والی مکینیکل ڈائجیشن اور کیمیکل ڈائجیشن کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l5",
+      "type": "long",
+      "q_en": "Describe the components of saliva and their roles in digestion.",
+      "q_ur": "سلائیوا کے اجزاء اور ڈائجیشن میں ان کے کردار کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l6",
+      "type": "long",
+      "q_en": "Explain the roles of swallowing, pharynx, epiglottis and peristalsis.",
+      "q_ur": "نگلنے، فیرنکس، ایپی گلوٹس اور پیریسٹالسس کے کردار کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l7",
+      "type": "long",
+      "q_en": "Describe the structure and basic functions of the stomach.",
+      "q_ur": "سٹمک کی ساخت اور اس کے بنیادی افعال کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l8",
+      "type": "long",
+      "q_en": "Describe the components of gastric juice and their functions.",
+      "q_ur": "گیسٹرک جوس کے اجزاء اور ان کے افعال کی تفصیل بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l9",
+      "type": "long",
+      "q_en": "Name the three parts of the small intestine and describe their lengths and functions.",
+      "q_ur": "سمال انٹیسٹائن کے تین حصوں کے نام، لمبائی اور افعال بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l10",
+      "type": "long",
+      "q_en": "Describe in detail the roles of bile and pancreatic juice in digestion.",
+      "q_ur": "بائل اور پینکریاٹک جوس کا ڈائجیشن میں کردار تفصیل سے بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l11",
+      "type": "long",
+      "q_en": "Describe the functions of different enzymes and sodium bicarbonate present in pancreatic juice.",
+      "q_ur": "پینکریاٹک جوس میں موجود مختلف اینزائمز اور سوڈیم بائی کاربونیٹ کے افعال بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l12",
+      "type": "long",
+      "q_en": "Explain the complete digestion of food in the small intestine and its end products.",
+      "q_ur": "سمال انٹیسٹائن میں خوراک کی مکمل ڈائجیشن اور اس کے اختتامی پروڈکٹس کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l13",
+      "type": "long",
+      "q_en": "Describe the structure of villi and their role in the absorption of food.",
+      "q_ur": "ولائی کی ساخت اور خوراک کے ایبزارپشن میں ان کے کردار کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l14",
+      "type": "long",
+      "q_en": "Describe the absorption of food molecules through villi and their distribution in the body.",
+      "q_ur": "خوراک کے مالیکیولز کے ولائی سے ایبزارپشن اور جسم میں ان کی تقسیم کا عمل بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l15",
+      "type": "long",
+      "q_en": "Describe the parts of the large intestine, absorption of water, formation and elimination of feces.",
+      "q_ur": "لارج انٹیسٹائن کے حصوں، پانی کے ایبزارپشن، فضلہ کی تشکیل اور اخراج کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l16",
+      "type": "long",
+      "q_en": "Explain the roles of the liver and gall bladder in the digestive system.",
+      "q_ur": "لیور اور گال بلیڈر کے ڈائجیسٹو سسٹم میں کردار کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l17",
+      "type": "long",
+      "q_en": "Define diarrhea and describe its symptoms, causes, treatment and prevention.",
+      "q_ur": "ڈائریا کی تعریف، علامات، وجوہات، علاج اور بچاؤ بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l18",
+      "type": "long",
+      "q_en": "Define constipation and describe its symptoms, causes, treatment and prevention.",
+      "q_ur": "قبض کی تعریف، علامات، وجوہات، علاج اور بچاؤ بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l19",
+      "type": "long",
+      "q_en": "What is peptic ulcer? Explain its types, symptoms, causes, treatment and prevention.",
+      "q_ur": "پیپٹک السر کیا ہے؟ اس کی اقسام، علامات، وجوہات، علاج اور بچاؤ کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10bioch1l20",
+      "type": "long",
+      "q_en": "Give a brief overview of common diseases of the digestive system.",
+      "q_ur": "ڈائجیسٹو سسٹم کی عام بیماریوں کا مختصر جائزہ پیش کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

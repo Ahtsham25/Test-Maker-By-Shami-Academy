@@ -1,4 +1,13 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  { "id": "ch1", "number": 1, "name": "Introduction of Biology", "name_ur": "حیاتیات کا تعارف" },
+  { "id": "ch2", "number": 2, "name": "Biodiversity", "name_ur": "حیاتیاتی تنوع" },
+  { "id": "ch3", "number": 3, "name": "The Cell", "name_ur": "خلیہ" },
+  { "id": "ch4", "number": 4, "name": "Cell Cycle", "name_ur": "خلیاتی دور" },
+  { "id": "ch5", "number": 5, "name": "Tissues, Organ and Organ System", "name_ur": "بافتیں، اعضاء اور نظام اعضاء" },
+  { "id": "ch6", "number": 6, "name": "Molecular Biology", "name_ur": "سالماتی حیاتیات" },
+  { "id": "ch7", "number": 7, "name": "Enzymes", "name_ur": "خمائر" },
+  { "id": "ch8", "number": 8, "name": "Bioenergetics", "name_ur": "حیاتی توانائیات" },
+  { "id": "ch9", "number": 9, "name": "Plant Physiology", "name_ur": "نباتاتی فعلیات" },
+  { "id": "ch10", "number": 10, "name": "Reproduction in Plants", "name_ur": "پودوں میں افزائش نسل" },
+  { "id": "ch11", "number": 11, "name": "Biostatistics", "name_ur": "حیاتیاتی شماریات" }
 ]

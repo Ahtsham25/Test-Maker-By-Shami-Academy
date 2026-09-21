@@ -1,4 +1,15 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  { "id": "ch1", "number": 1, "name": "States of Matter and Phase Changes", "name_ur": "مادے کی حالتیں اور حالت کی تبدیلی" },
+  { "id": "ch2", "number": 2, "name": "Atomic Structure", "name_ur": "جوہری ساخت" },
+  { "id": "ch3", "number": 3, "name": "Chemical Bonding", "name_ur": "کیمیائی بندش" },
+  { "id": "ch4", "number": 4, "name": "Stoichiometry", "name_ur": "سٹوئیکیومیٹری" },
+  { "id": "ch5", "number": 5, "name": "Energetics", "name_ur": "توانائیات" },
+  { "id": "ch6", "number": 6, "name": "Equilibria", "name_ur": "توازن" },
+  { "id": "ch7", "number": 7, "name": "Acid Base Chemistry", "name_ur": "تیزاب اور اساس کیمیا" },
+  { "id": "ch8", "number": 8, "name": "Periodic Table and Periodicity", "name_ur": "متواتر جدول اور تواتریت" },
+  { "id": "ch9", "number": 9, "name": "Group Properties and Elements", "name_ur": "عناصر کے گروہی خواص" },
+  { "id": "ch10", "number": 10, "name": "Environmental Chemistry", "name_ur": "ماحولیاتی کیمیا" },
+  { "id": "ch11", "number": 11, "name": "Hydrocarbons", "name_ur": "ہائیڈروکاربنز" },
+  { "id": "ch12", "number": 12, "name": "Empirical Data Collection and Analysis", "name_ur": "تجرباتی ڈیٹا اکٹھا کرنا اور تجزیہ" },
+  { "id": "ch13", "number": 13, "name": "Laboratory and Practical Skills", "name_ur": "تجربہ گاہی اور عملی مہارتیں" }
 ]

@@ -5,5 +5,6 @@
   { "id": "computer_science", "name": "Computer Science", "name_ur": "کمپیوٹر سائنس" },
   { "id": "english", "name": "English", "name_ur": "انگلش" },
   { "id": "urdu", "name": "Urdu", "name_ur": "اردو" },
-  { "id": "tarjuma_tul_quran", "name": "Tarjuma-tul-Quran / Islamiat", "name_ur": "ترجمۃ القرآن / اسلامیات" }
+  { "id": "tarjuma_tul_quran", "name": "Tarjuma-tul-Quran", "name_ur": "ترجمۃ القرآن" },
+  { "id": "islamiat", "name": "Islamiat", "name_ur": "اسلامیات" }
 ]
