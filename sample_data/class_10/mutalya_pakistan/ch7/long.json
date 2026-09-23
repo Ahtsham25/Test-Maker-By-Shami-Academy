@@ -1,0 +1,45 @@
+{
+  "chapter_id": "ch7",
+  "questions": [
+    {
+      "id": "p10psch7l1",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "قومی تعمیر اور ترقی میں اقلیتوں کا کردار بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch7l2",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "علاقائی ثقافتیں کیسے قومی یکجہتی کا باعث بنتی ہیں، وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch7l3",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "پاکستانی معاشرے اور ثقافت کی اہم خصوصیات بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch7l4",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "پاکستان میں تعلیم کی صورتحال بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch7l5",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "سیاحت کی اہمیت بیان کریں اور پاکستان کے قدرتی اور ثقافتی پرکشش مقامات کو اجاگر کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

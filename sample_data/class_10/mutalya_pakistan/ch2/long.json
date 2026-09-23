@@ -1,1 +1,37 @@
-{ "chapter_id": "ch2", "questions": [] }
+{
+  "chapter_id": "ch2",
+  "questions": [
+    {
+      "id": "p10psch2l1",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "تحریکِ علی گڑھ کے اقدامات کا تجزیہ کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2l2",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "قائدِ اعظم کے چودہ نکات لکھیں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2l3",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "1906ء سے 1920ء کے دوران ہونے والے اہم سیاسی واقعات قلم بند کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2l4",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "قیامِ پاکستان کے حوالے سے قائدِ اعظم محمد علی جناحؒ کے کردار کو واضح کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

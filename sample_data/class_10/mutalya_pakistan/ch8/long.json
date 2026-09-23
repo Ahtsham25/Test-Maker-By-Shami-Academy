@@ -1,0 +1,45 @@
+{
+  "chapter_id": "ch8",
+  "questions": [
+    {
+      "id": "p10psch8l1",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "قرآن و سنت کی روشنی میں اسلام میں خواتین کے حقوق بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch8l2",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "تحریکِ پاکستان میں خواتین کے کردار پر بحث کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch8l3",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "پاکستان کی ترقی میں خواتین کے کردار کا تجزیہ کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch8l4",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "آئینی دفعات کے حوالے سے خواتین پر تشدد کے معاشرے پر اثرات بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch8l5",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "پاکستان میں خواتین پر تشدد کے خاتمے کے لیے حکومتی اقدامات پر روشنی ڈالیں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

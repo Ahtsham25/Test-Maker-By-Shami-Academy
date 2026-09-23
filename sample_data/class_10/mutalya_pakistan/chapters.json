@@ -1,4 +1,50 @@
 [
-  { "id": "ch1", "number": 1, "name": "Chapter 1 Title (English)", "name_ur": "باب اول کا نام" },
-  { "id": "ch2", "number": 2, "name": "Chapter 2 Title (English)", "name_ur": "باب دوم کا نام" }
+  {
+    "id": "ch1",
+    "number": 1,
+    "name": "Ideological Foundations of Pakistan",
+    "name_ur": "پاکستان کی نظریاتی اساس"
+  },
+  {
+    "id": "ch2",
+    "number": 2,
+    "name": "Pakistan Movement and Establishment of Pakistan",
+    "name_ur": "تحریکِ پاکستان اور پاکستان کا قیام"
+  },
+  {
+    "id": "ch3",
+    "number": 3,
+    "name": "History of Pakistan (1947–Present) and Constitutional Development",
+    "name_ur": "تاریخِ پاکستان (1947ء تا حال) اور آئینی ترقی"
+  },
+  {
+    "id": "ch4",
+    "number": 4,
+    "name": "Geography of Pakistan",
+    "name_ur": "پاکستان کا جغرافیہ"
+  },
+  {
+    "id": "ch5",
+    "number": 5,
+    "name": "Pakistan and International Affairs",
+    "name_ur": "پاکستان اور بین الاقوامی امور"
+  },
+  {
+    "id": "ch6",
+    "number": 6,
+    "name": "Resources and Economic Development of Pakistan",
+    "name_ur": "پاکستان کے وسائل اور معاشی ترقی"
+  },
+  {
+    "id": "ch7",
+    "number": 7,
+    "name": "Population, Society and Cultural Diversity in Pakistan",
+    "name_ur": "آبادی، معاشرہ اور پاکستان میں ثقافتی تنوع"
+  },
+  {
+    "id": "ch8",
+    "number": 8,
+    "name": "Empowerment of Women in Pakistan",
+    "name_ur": "پاکستان میں خواتین کو بااختیار بنانا"
+  }
 ]

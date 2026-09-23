@@ -1,1 +1,109 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10psch1s1",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "نظریہ کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s2",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "نظریہ پاکستان سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s3",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "نظریہ پاکستان سے آگاہی کیوں ضروری ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s4",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "برِصغیر میں دو قومی نظریے کی ابتدا کب ہوئی؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s5",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "نظریہ پاکستان کے عناصر میں عقیدہ سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s6",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "علامہ اقبال نے خطبہ الہ آباد 1930ء میں نظریہ پاکستان کے حوالے سے کیا فرمایا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s7",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "عقیدہ رسالت کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s8",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "قائدِ اعظم نے اقلیتوں کے بارے میں کیا فرمایا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s9",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "\"اب پھر کبھی نہیں\" (Now or Never) کے عنوان سے مشہور کتابچہ کب اور کس نے جاری کیا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s10",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "قائدِ اعظم نے 1948ء کو اسٹیٹ بینک آف پاکستان کا افتتاح کرتے ہوئے کیا فرمایا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s11",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "مساوات کے متعلق اللہ تعالیٰ کا فرمان لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s12",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "جمہوریت کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1s13",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "اللہ تعالیٰ کی حاکمیت سے کیا مراد ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

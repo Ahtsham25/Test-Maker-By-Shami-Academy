@@ -1,1 +1,125 @@
-{ "chapter_id": "ch2", "questions": [] }
+{
+  "chapter_id": "ch2",
+  "questions": [
+    {
+      "id": "p10psch2s1",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "تحریکِ علی گڑھ کے مقاصد تحریر کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s2",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "مسلم لیگ کے قیام کے پسِ منظر میں کیا محرکات شامل تھے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s3",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "تحریکِ ہجرت کا سبب کیا تھا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s4",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "ریڈکلف ایوارڈ کا اہم ترین فیصلہ کیا تھا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s5",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "شملہ کانفرنس کیوں ناکام ہوئی؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s6",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "عبوری حکومت 1946ء میں شامل اراکین کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s7",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "انگریزوں کے نوآبادیاتی نظام کے برِصغیر کے لوگوں کی زندگی پر تین منفی اثرات تحریر کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s8",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "کوئی سی تین کرپس مشن تجاویز تحریر کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s9",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "تقسیمِ بنگال کیوں ہوئی؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s10",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "کیبنٹ مشن کے مقاصد کیا تھے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s11",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "قانونِ آزادیِ ہند کیا تھا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s12",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "یومِ راست اقدام کیا تھا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s13",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "سائمن کمیشن کیا تھا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s14",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "یومِ نجات کب اور کیوں منایا گیا؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch2s15",
+      "type": "short",
+      "q_en": "",
+      "q_ur": "ریڈکلف ایوارڈ میں شامل مسلمان ججز کے نام لکھیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}

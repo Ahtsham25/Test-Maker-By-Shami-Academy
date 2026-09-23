@@ -1,1 +1,45 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10psch1l1",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "نظریہ پاکستان کے مآخذ بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1l2",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "دو قومی نظریہ کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1l3",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "نظریہ پاکستان کے بنیادی اجزا (عناصر) کی تجزیہ کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1l4",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "قائدِ اعظم محمد علی جناحؒ اور علامہ محمد اقبالؒ کے ارشادات کی روشنی میں نظریہ پاکستان کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10psch1l5",
+      "type": "long",
+      "q_en": "",
+      "q_ur": "ہندوستان میں مسلمانوں کی معاشی اور سماجی محرومیوں کا جائزہ لیں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}
