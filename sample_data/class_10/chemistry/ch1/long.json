@@ -1,1 +1,61 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10chemch1l1",
+      "type": "long",
+      "q_en": "Draw and explain the heating curve for the physical changes water undergoes with change in temperature.",
+      "q_ur": "پانی میں درجہ حرارت کی تبدیلی کے ساتھ ہونے والی طبعی تبدیلیوں کے لیے ہیٹنگ کرو بنائیں اور اس کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l2",
+      "type": "long",
+      "q_en": "Explain the heating curve of a substance from solid state to gaseous state with reference to Figure 14.2.",
+      "q_ur": "ایک مادے کے ٹھوس حالت سے گیسی حالت تک کے ہیٹنگ کرو کی وضاحت فگر 14.2 کے حوالے سے کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l3",
+      "type": "long",
+      "q_en": "Describe the molecular processes involved in melting and boiling.",
+      "q_ur": "پگھلنے اور ابلنے میں شامل مالیکیولر عمل بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l4",
+      "type": "long",
+      "q_en": "Compare and contrast the processes of Evaporation and Boiling based on the textbook.",
+      "q_ur": "کتاب کی بنیاد پر ایوپوریشن اور ابلنے کے عمل کا موازنہ اور فرق بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l5",
+      "type": "long",
+      "q_en": "Describe the experimental verification of Boyle's Law by Robert Boyle.",
+      "q_ur": "رابرٹ بوائل کے تجربے کی روشنی میں بوائل کے قانون کی توثیق بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l6",
+      "type": "long",
+      "q_en": "Explain the phenomenon of Sublimation and provide its practical applications.",
+      "q_ur": "سبلیمیشن کے عمل کی وضاحت کریں اور اس کے عملی استعمالات بیان کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1l7",
+      "type": "long",
+      "q_en": "Explain the effect of temperature on the volume of a gas (Charles' Law) and the intermixing of gases (Diffusion).",
+      "q_ur": "گیس کے حجم پر درجہ حرارت کے اثر (چارلس کا قانون) اور گیسوں کے آپس میں ملنے (ڈفیوژن) کی وضاحت کریں۔",
+      "marks": 5,
+      "board_pattern": "punjab"
+    }
+  ]
+}

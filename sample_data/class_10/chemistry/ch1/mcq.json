@@ -1,1 +1,194 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10chemch1m1",
+      "type": "mcq",
+      "q_en": "According to kinetic theory, the basic difference between solid, liquid and gas is due to:",
+      "q_ur": "کائنیٹک تھیوری کے مطابق ٹھوس، مائع اور گیس کے درمیان بنیادی فرق کس وجہ سے ہوتا ہے؟",
+      "options_en": [
+        "the difference in the movements of the particles.",
+        "the chemical properties of the particles.",
+        "the size of the particles.",
+        "the shape of the particles."
+      ],
+      "options_ur": [
+        "ذرات کی حرکت میں فرق کی وجہ سے۔",
+        "ذرات کی کیمیائی خصوصیات کی وجہ سے۔",
+        "ذرات کی جسامت کی وجہ سے۔",
+        "ذرات کی شکل کی وجہ سے۔"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m2",
+      "type": "mcq",
+      "q_en": "Upon heating the rate of evaporation:",
+      "q_ur": "گرم کرنے پر ایوپوریشن (evaporation) کی رفتار:",
+      "options_en": [
+        "decreases",
+        "increases",
+        "remains the same",
+        "initially decreases and then increases upon further heating"
+      ],
+      "options_ur": [
+        "کم ہو جاتی ہے",
+        "بڑھ جاتی ہے",
+        "یکساں رہتی ہے",
+        "پہلے کم ہوتی ہے اور مزید گرم کرنے پر بڑھ جاتی ہے"
+      ],
+      "answer": 1,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m3",
+      "type": "mcq",
+      "q_en": "The inter-particle attractions are the strongest in:",
+      "q_ur": "ذرات کے درمیان کشش کی قوت سب سے زیادہ کس میں مضبوط ہوتی ہے؟",
+      "options_en": [
+        "Solids",
+        "Liquids",
+        "Plasma",
+        "Gas"
+      ],
+      "options_ur": [
+        "ٹھوس اشیاء میں",
+        "مائعات میں",
+        "پلازما میں",
+        "گیس میں"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m4",
+      "type": "mcq",
+      "q_en": "Cooling the vapours of some gases change them directly into solid state. This phenomenon is called:",
+      "q_ur": "کچھ گیسوں کے بخارات کو ٹھنڈا کرنے پر وہ براہِ راست ٹھوس حالت میں بدل جاتے ہیں۔ اس عمل کو کیا کہا جاتا ہے؟",
+      "options_en": [
+        "evaporation",
+        "condensation",
+        "sublimation",
+        "deposition"
+      ],
+      "options_ur": [
+        "ایوپوریشن (بخارات بننا)",
+        "کنڈینسیشن (تکثیف)",
+        "سبلیمیشن (تصعید)",
+        "ڈیپوزیشن (بازتصعید)"
+      ],
+      "answer": 3,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m5",
+      "type": "mcq",
+      "q_en": "Physical state in which the particles possess the maximum energy:",
+      "q_ur": "وہ طبعی حالت جس میں ذرات سب سے زیادہ توانائی رکھتے ہیں:",
+      "options_en": [
+        "Solid",
+        "Liquid",
+        "Gaseous",
+        "Vapour"
+      ],
+      "options_ur": [
+        "ٹھوس",
+        "مائع",
+        "گیسی",
+        "بخارات"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m6",
+      "type": "mcq",
+      "q_en": "How does the process of evaporation depend on the force of attraction present among the molecules of a liquid?",
+      "q_ur": "ایوپوریشن کا عمل مائع کے مالیکیولز کے درمیان موجود کشش کی قوت پر کیسے منحصر ہے؟",
+      "options_en": [
+        "It decreases with the increasing strength of attraction.",
+        "It increases with the increasing strength of attraction.",
+        "It is independent of the strength of the force of attraction.",
+        "It first increases and then decreases with the increasing strength of the force of attraction."
+      ],
+      "options_ur": [
+        "کشش کی قوت بڑھنے کے ساتھ ساتھ کم ہوتا جاتا ہے۔",
+        "کشش کی قوت بڑھنے کے ساتھ ساتھ بڑھتا جاتا ہے۔",
+        "یہ کشش کی قوت سے آزاد ہے۔",
+        "پہلے بڑھتا ہے اور پھر کشش کی قوت بڑھنے کے ساتھ کم ہو جاتا ہے۔"
+      ],
+      "answer": 0,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m7",
+      "type": "mcq",
+      "q_en": "Which gas will diffuse at the fastest rate?",
+      "q_ur": "کون سی گیس سب سے تیز رفتار سے ڈفیوز (diffuse) ہو گی؟",
+      "options_en": [
+        "HCl",
+        "SO2",
+        "H2S",
+        "CO2"
+      ],
+      "options_ur": [
+        "ایچ سی ایل (HCl)",
+        "سلفر ڈائی آکسائیڈ (SO2)",
+        "ہائیڈروجن سلفائیڈ (H2S)",
+        "کاربن ڈائی آکسائیڈ (CO2)"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m8",
+      "type": "mcq",
+      "q_en": "The phase changes A and B in gas —A→ liquid —B→ solid are:",
+      "q_ur": "گیس —A→ مائع —B→ ٹھوس میں تبدیلیاں A اور B ہیں:",
+      "options_en": [
+        "Melting, evaporating",
+        "Condensation, melting",
+        "Condensation, freezing",
+        "Boiling, freezing"
+      ],
+      "options_ur": [
+        "پگھلنا، بخارات بننا",
+        "تکثیف، پگھلنا",
+        "تکثیف، جمنا",
+        "ابلنا، جمنا"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1m9",
+      "type": "mcq",
+      "q_en": "A student noticed frost falling on the ground at 6.30 am and disappearing by 8.30 am. Which phase change was responsible for changing the frost into water vapours?",
+      "q_ur": "ایک طالبعلم نے صبح 6:30 بجے زمین پر پالا (frost) دیکھا جو 8:30 بجے تک غائب ہو گیا۔ پالے کے پانی کے بخارات میں بدلنے کے لیے کون سی تبدیلی ذمہ دار تھی؟",
+      "options_en": [
+        "Melting",
+        "Evaporation",
+        "Sublimation",
+        "Deposition"
+      ],
+      "options_ur": [
+        "پگھلنا",
+        "بخارات بننا",
+        "سبلیمیشن (تصعید)",
+        "ڈیپوزیشن"
+      ],
+      "answer": 2,
+      "marks": 1,
+      "board_pattern": "punjab"
+    }
+  ]
+}

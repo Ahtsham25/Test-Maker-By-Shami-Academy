@@ -1,1 +1,397 @@
-{ "chapter_id": "ch1", "questions": [] }
+{
+  "chapter_id": "ch1",
+  "questions": [
+    {
+      "id": "p10chemch1s1",
+      "type": "short",
+      "q_en": "From where does the energy come when a liquid evaporates?",
+      "q_ur": "جب مائع بخارات بنتا ہے تو توانائی کہاں سے آتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s2",
+      "type": "short",
+      "q_en": "Is condensation an endothermic process?",
+      "q_ur": "کیا کنڈینسیشن ایک اینڈوتھرمک عمل ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s3",
+      "type": "short",
+      "q_en": "Why naphthalene balls (used to repel insects) disappear after some time?",
+      "q_ur": "کیڑوں کو بھگانے والی نیفتھلین کی گولیاں کچھ عرصے بعد غائب کیوں ہو جاتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s4",
+      "type": "short",
+      "q_en": "Why does the temperature remain constant during a phase change?",
+      "q_ur": "حالت کی تبدیلی کے دوران درجہ حرارت ایک جیسا کیوں رہتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s5",
+      "type": "short",
+      "q_en": "Is it possible to compress a liquid like a gas?",
+      "q_ur": "کیا مائع کو گیس کی طرح دبانا (compress) ممکن ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s6",
+      "type": "short",
+      "q_en": "Can you change the temperature at which water boils in an experiment in your lab?",
+      "q_ur": "کیا آپ لیب میں تجربے کے دوران پانی کے ابلنے کا درجہ حرارت بدل سکتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s7",
+      "type": "short",
+      "q_en": "In which season the wet clothes get dry after a relatively longer time?",
+      "q_ur": "کس موسم میں گیلے کپڑے نسبتاً زیادہ وقت میں خشک ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s8",
+      "type": "short",
+      "q_en": "When a solid is heated, what happens to its particles which are vibrating?",
+      "q_ur": "جب ٹھوس کو گرم کیا جاتا ہے تو اس کے ارتعاش کرنے والے ذرات کا کیا ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s9",
+      "type": "short",
+      "q_en": "Do solids and liquids also diffuse just like gases?",
+      "q_ur": "کیا ٹھوس اور مائع بھی گیسوں کی طرح ڈفیوز ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s10",
+      "type": "short",
+      "q_en": "Why dew is formed in the early hours of the morning?",
+      "q_ur": "صبح سویرے اوس کیوں بنتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s11",
+      "type": "short",
+      "q_en": "Differentiate between evaporation and boiling.",
+      "q_ur": "ایوپوریشن اور ابلنے (boiling) میں فرق بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s12",
+      "type": "short",
+      "q_en": "Describe how boiling is related to the external pressure.",
+      "q_ur": "بیان کریں کہ ابلنا بیرونی دباؤ سے کیسے تعلق رکھتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s13",
+      "type": "short",
+      "q_en": "Why the process of evaporation does not need the input of energy?",
+      "q_ur": "ایوپوریشن کے عمل کو توانائی کی ضرورت کیوں نہیں ہوتی؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s14",
+      "type": "short",
+      "q_en": "Why the heating and cooling curves for the phase changes adopt the same path?",
+      "q_ur": "حالت کی تبدیلیوں کے لیے ہیٹنگ اور کولنگ کروز ایک جیسا راستہ کیوں اختیار کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s15",
+      "type": "short",
+      "q_en": "Why ice melts when the pressure is exerted on it?",
+      "q_ur": "برف پر دباؤ ڈالنے سے وہ کیوں پگھل جاتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s16",
+      "type": "short",
+      "q_en": "Explain the difference in the rates of diffusion of two gases based on kinetic theory.",
+      "q_ur": "کائنیٹک تھیوری کی بنیاد پر دو گیسوں کے ڈفیوژن کی رفتار میں فرق کی وضاحت کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s17",
+      "type": "short",
+      "q_en": "How does the process of sublimation helpful in printing and in the usage of airfreshner?",
+      "q_ur": "سبلیمیشن کا عمل پرنٹنگ اور ایئر فریشنر کے استعمال میں کیسے مددگار ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s18",
+      "type": "short",
+      "q_en": "Define Diffusion of gases.",
+      "q_ur": "گیسوں کے ڈفیوژن کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s19",
+      "type": "short",
+      "q_en": "Why does hydrogen gas diffuse faster than oxygen gas?",
+      "q_ur": "ہائیڈروجن گیس آکسیجن گیس سے تیز کیوں ڈفیوز ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s20",
+      "type": "short",
+      "q_en": "Summarize the results of Activity 14.2 comparing Ammonia and HCl.",
+      "q_ur": "امونیا اور HCl کا موازنہ کرنے والی سرگرمی 14.2 کے نتائج کا خلاصہ کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s21",
+      "type": "short",
+      "q_en": "How does the volume of a gas change when its temperature is decreased at constant pressure?",
+      "q_ur": "مستقل دباؤ پر گیس کا درجہ حرارت کم کرنے سے اس کا حجم کیسے تبدیل ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s22",
+      "type": "short",
+      "q_en": "Which gas among NO2, SO2, H2S will diffuse at the fastest speed and why?",
+      "q_ur": "NO2, SO2, H2S میں سے کون سی گیس سب سے تیز ڈفیوز ہو گی اور کیوں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s23",
+      "type": "short",
+      "q_en": "Define diffusion in the context of medicines in the human body.",
+      "q_ur": "انسانی جسم میں ادویات کے تناظر میں ڈفیوژن کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s24",
+      "type": "short",
+      "q_en": "What processes of drugs are controlled by diffusion rates?",
+      "q_ur": "ادویات کے کون سے عمل ڈفیوژن کی رفتار سے کنٹرول ہوتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s25",
+      "type": "short",
+      "q_en": "How does diffusion rate affect orally taken medicines?",
+      "q_ur": "ڈفیوژن کی رفتار زبانی طور پر لی جانے والی ادویات کو کیسے متاثر کرتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s26",
+      "type": "short",
+      "q_en": "Why are lipid-soluble drugs effective in shorter time?",
+      "q_ur": "لپڈ میں حل ہونے والی ادویات کم وقت میں مؤثر کیوں ہوتی ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s27",
+      "type": "short",
+      "q_en": "What is the significance of drug concentration at the target organ?",
+      "q_ur": "ہدف عضو (target organ) پر دوا کے ارتکاز کی کیا اہمیت ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s28",
+      "type": "short",
+      "q_en": "Define Internal Energy.",
+      "q_ur": "اندرونی توانائی (Internal Energy) کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s29",
+      "type": "short",
+      "q_en": "What is the Melting Point?",
+      "q_ur": "پگھلاؤ کا نقطہ (Melting Point) کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s30",
+      "type": "short",
+      "q_en": "Define Boiling Point.",
+      "q_ur": "ابلاؤ کا نقطہ (Boiling Point) کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s31",
+      "type": "short",
+      "q_en": "What is Condensation?",
+      "q_ur": "کنڈینسیشن کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s32",
+      "type": "short",
+      "q_en": "Differentiate between a heating curve and a cooling curve.",
+      "q_ur": "ہیٹنگ کرو اور کولنگ کرو میں فرق بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s33",
+      "type": "short",
+      "q_en": "Why do we feel comfortable wearing cotton clothes in summer?",
+      "q_ur": "گرمیوں میں سوتی کپڑے پہننا آرام دہ کیوں محسوس ہوتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s34",
+      "type": "short",
+      "q_en": "Is the average kinetic energy of gas and liquid particles same at the same temperature?",
+      "q_ur": "کیا ایک جیسے درجہ حرارت پر گیس اور مائع کے ذرات کی اوسط حرکی توانائی برابر ہوتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s35",
+      "type": "short",
+      "q_en": "What is the Condensation Point?",
+      "q_ur": "کنڈینسیشن پوائنٹ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s36",
+      "type": "short",
+      "q_en": "Define Evaporation.",
+      "q_ur": "ایوپوریشن کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s37",
+      "type": "short",
+      "q_en": "Explain why evaporation produces cooling.",
+      "q_ur": "وضاحت کریں کہ ایوپوریشن ٹھنڈک کیوں پیدا کرتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s38",
+      "type": "short",
+      "q_en": "State two differences between evaporation and boiling.",
+      "q_ur": "ایوپوریشن اور ابلنے کے درمیان کوئی دو فرق بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s39",
+      "type": "short",
+      "q_en": "Define Sublimation with two examples.",
+      "q_ur": "سبلیمیشن کی تعریف دو مثالوں کے ساتھ کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s40",
+      "type": "short",
+      "q_en": "What is Deposition? Give an example.",
+      "q_ur": "ڈیپوزیشن کیا ہے؟ ایک مثال دیں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s41",
+      "type": "short",
+      "q_en": "How do solid air fresheners work?",
+      "q_ur": "ٹھوس ایئر فریشنر کیسے کام کرتے ہیں؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s42",
+      "type": "short",
+      "q_en": "What is Sublimation Printing?",
+      "q_ur": "سبلیمیشن پرنٹنگ کیا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s43",
+      "type": "short",
+      "q_en": "Does the change in temperature occur during the process of evaporation?",
+      "q_ur": "کیا ایوپوریشن کے عمل کے دوران درجہ حرارت میں تبدیلی آتی ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s44",
+      "type": "short",
+      "q_en": "Why does sublimation printing not fade away with time?",
+      "q_ur": "سبلیمیشن پرنٹنگ وقت کے ساتھ کیوں ماند نہیں پڑتی؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s45",
+      "type": "short",
+      "q_en": "State Boyle's Law.",
+      "q_ur": "بوائل کا قانون بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s46",
+      "type": "short",
+      "q_en": "Explain Boyle's law according to Kinetic Theory.",
+      "q_ur": "کائنیٹک تھیوری کے مطابق بوائل کے قانون کی وضاحت کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s47",
+      "type": "short",
+      "q_en": "Define Charles' Law.",
+      "q_ur": "چارلس کے قانون کی تعریف کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s48",
+      "type": "short",
+      "q_en": "Why does an increase in temperature increase the pressure of a gas at fixed volume?",
+      "q_ur": "مستقل حجم پر درجہ حرارت بڑھنے سے گیس کا دباؤ کیوں بڑھتا ہے؟",
+      "marks": 2,
+      "board_pattern": "punjab"
+    },
+    {
+      "id": "p10chemch1s49",
+      "type": "short",
+      "q_en": "State Avogadro's Law.",
+      "q_ur": "ایوگیڈرو کا قانون بیان کریں۔",
+      "marks": 2,
+      "board_pattern": "punjab"
+    }
+  ]
+}
